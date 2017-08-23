@@ -5,7 +5,7 @@
 * **Class Date/Time**: MW 4-5:15pm 
 * **Class Location**: MUEN E050 
 * **Instructor**: Chris Ketelsen 
-* **Prerequisites**: C- or better in Calculus 2 _and_ ability (or willingness to learn) to program in Python 3 
+* **Prerequisites**: C- or better in CSCI 2270 and Calculus 2 _and_ ability (or willingness to learn) to program in Python 3 
 * **Office Hours**: MW 2-3:30pm in ECOT 731 and F 11am-12pm by appointment
 
 ### Course Description 
