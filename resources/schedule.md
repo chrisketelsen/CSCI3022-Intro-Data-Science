@@ -8,10 +8,10 @@
 
 |Week	| Date 		   | MIPS   |  ThinkStats  |                Topic             	     | Slides/NBKs  | Hmwk  	| 
 |:-----:|:------------:| -------|--------------|-----------------------------------------|--------------|-----------|
-|1      | 08.28        |        | 			   |  Course Intro, Computing Intro, EDA 	 |			    |			| 
-|       | 08.30        |        | 			   |  EDA, Data Cleaning, Summary Statistics |			    |			| 
+|1      | 08.28        |        | 			   |  Course Intro, Computing Intro 	 	 |			    |			| 
+|       | 08.30        |        | 			   |  EDA, Summary Statistics 				 |			    |			| 
 |2      | 09.04        |        | 			   |  **LABOR DAY - NO CLASS**               |			    |	hmwk1	| 
-|       | 09.06        |        | 			   |  EDA, Data Visualization                |			    |			| 
+|       | 09.06        |        | 			   |  EDA, Data Visualization and Cleaning   |			    |			| 
 |3      | 09.11        |        | 			   |  Counting Methods and Probability       |			    |			| 
 |       | 09.13        |        | 			   |  Axioms and Theorems of Probability     |			    |			| 
 |4      | 09.18        |        | 			   |  Bayes' Rule and Intro to PDFs			 |              |	hmwk2	| 
