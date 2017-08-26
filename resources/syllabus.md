@@ -2,11 +2,17 @@
 
 ### Course Information 
 
-* **Class Date/Time**: MW 4-5:15pm 
-* **Class Location**: MUEN E050 
-* **Instructor**: Chris Ketelsen 
-* **Prerequisites**: C- or better in CSCI 2270 and Calculus 2 
-* **Office Hours**: MW 2-3:30pm in ECOT 731 and F 11am-12pm by appointment
+* **Section 001**: MW 4-5:15am in MUEN E050 with Chris Ketelsen 
+* **Section 002**: MW 4-5:15am in MUEN E131 with Dan Larremore 
+
+* **Prerequisites**: 
+	* C- or better in Calculus 2 
+	* C- or better in CSCI 2270
+	* ability (or willingness to learn) to program in Python 3 
+
+* **Office Hours**: 
+	* Chris: MW 2-3:30pm in ECOT 731 and F 11am-12pm by appointment
+	* Dan: TBA
 
 ### Course Description 
 
@@ -28,7 +34,7 @@ In this course, we will learn foundational concepts in the fields of probability
 
 7. construct basic data visualizations in Python and organize analyses, findings, and recommendations into easily interpretable reports in Jupyter Notebooks
 
-Importantly, my aim in this course is to help you become proficient in the technical aspects of data analysis; but, I also aim to help you identify when certain techniques are justified, and when certain techniques might lead you astray.  
+Importantly, our aim in this course is to help you become proficient in the technical aspects of data analysis; but, I also aim to help you identify when certain techniques are justified, and when certain techniques might lead you astray.  
 
 ### Textbook 
 
