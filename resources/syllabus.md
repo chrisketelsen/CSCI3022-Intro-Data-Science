@@ -34,7 +34,7 @@ In this course, we will learn foundational concepts in the fields of probability
 
 7. construct basic data visualizations in Python and organize analyses, findings, and recommendations into easily interpretable reports in Jupyter Notebooks
 
-Importantly, our aim in this course is to help you become proficient in the technical aspects of data analysis; but, I also aim to help you identify when certain techniques are justified, and when certain techniques might lead you astray.  
+Importantly, our aim in this course is to help you become proficient in the technical aspects of data analysis; but, we also aim to help you identify when certain techniques are justified, and when certain techniques might lead you astray.  
 
 ### Textbook 
 
