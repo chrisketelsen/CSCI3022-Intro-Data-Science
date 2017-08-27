@@ -12,7 +12,7 @@
 
 * **Office Hours**: 
 	* Chris: MW 2-3:30pm in ECOT 731 and F 11am-12pm by appointment
-	* Dan: TBA
+	* Dan: MW 10-11:30am in CSEL 
 
 ### Course Description 
 
