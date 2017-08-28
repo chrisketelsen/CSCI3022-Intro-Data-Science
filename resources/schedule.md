@@ -6,9 +6,9 @@
 - Suggested reading under ThinkStats is from Think Stats by Downey.
 - Homework is due on Moodle by 5pm on Friday the week **after** the assignment is listed. 
 
-|Week	| Date 		   | MIPS   |  ThinkStats  |                Topic             	     | Slides/NBKs  | Hmwk  	| 
+|Week	| Date 		   | MIPS   |  ThinkStats  |                Topic             	     | Slides       | Hmwk  	| 
 |:-----:|:------------:| -------|--------------|-----------------------------------------|--------------|-----------|
-|1      | 08.28        |        | 			   |  Course Intro, Computing Intro 	 	 |			    |			| 
+|1      | 08.28        |        | 			   |  Course Intro, Computing Intro 	 	 |	[CK](https://goo.gl/JmqTbf)/DL	|	| 
 |       | 08.30        |        | 			   |  EDA, Summary Statistics 				 |			    |			| 
 |2      | 09.04        |        | 			   |  **LABOR DAY - NO CLASS**               |			    |	hmwk1	| 
 |       | 09.06        |        | 			   |  EDA, Data Visualization and Cleaning   |			    |			| 
