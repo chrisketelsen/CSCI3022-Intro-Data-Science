@@ -10,7 +10,7 @@
 |:-----:|:------------:| ---------------------|----------|-------------------------------------|--------------|-----------|
 |1      | 08.28        |                      | TS 1     |Course Intro, Computing Intro 	   |[CK](https://goo.gl/JmqTbf)|| 
 |       | 08.30        | 16.1-16.3            |          |EDA, Summary Statistics 			   |[CK](https://goo.gl/xt5Lvp)|| 
-|2      | 09.04        |                      |          |**LABOR DAY - NO CLASS**             |			    |	hmwk1	| 
+|2      | 09.04        |                      |          |**LABOR DAY - NO CLASS**             |			    |	[hmwk1](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk01)	| 
 |       | 09.06        | 15.1-15.2, 16.4      |          |EDA, Data Visualization and Cleaning |			    |			| 
 |3      | 09.11        |                      |          |Counting Methods and Probability     |			    |			| 
 |       | 09.13        |                      |          |Axioms and Theorems of Probability   |			    |			| 
