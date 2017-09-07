@@ -23,7 +23,7 @@
 |7      | 10.09        |                      |          |The Normal Distribution              |			    |			| 
 |       | 10.11        |                      |          |The Central Limit Theorem            |			    |			| 
 |8      | 10.16        |                      |          |Monte Carlo Simulation               |			    |	hmwk4	| 
-|       | 10.17        |                      |          |**MIDTERM EXAM**                     |			    |			| 
+|       | 10.18        |                      |          |**MIDTERM EXAM**                     |			    |			| 
 |9      | 10.23        |                      |          |Intro to Bayesian Simulation         |			    |			| 
 |       | 10.25        |                      |          |Inference and CI Intro, The Bootstrap| 		        |			| 
 |10     | 10.30        |                      |          |CIs for Population Mean              |			    |	hmwk5	| 
