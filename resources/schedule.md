@@ -11,7 +11,7 @@
 |1      | 08.28        |                      | TS 1     |Course Intro, Computing Intro 	   |[CK](https://goo.gl/JmqTbf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec1_larremore.pdf)|| 
 |       | 08.30        | 16.1-16.3            |          |EDA, Summary Statistics 			   |[CK](https://goo.gl/xt5Lvp)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec2_larremore.pdf) || 
 |2      | 09.04        |                      |          |**LABOR DAY - NO CLASS**             |			    |	[hmwk1](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk01)	| 
-|       | 09.06        | 15.1-15.2, 16.4      |          |EDA, Data Visualization and Cleaning |[CK](https://goo.gl/RCJ9fh)/DL	    |			| 
+|       | 09.06        | 15.1-15.2, 16.4      |          |EDA, Data Visualization and Cleaning |[CK](https://goo.gl/RCJ9fh)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec3_larremore.pdf) || 
 |3      | 09.11        | 2                    |          |Counting Methods and Probability     |			    |			| 
 |       | 09.13        | 2, 3                 |          |Axioms and Theorems of Probability   |			    |			| 
 |4      | 09.18        | 3                    |          |Bayes' Rule and Intro to PDFs		   |                |	hmwk2	| 
