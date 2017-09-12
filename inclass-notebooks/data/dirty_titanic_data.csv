@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+0,1,0.0,3.0,"Braund, Mr. Owen Harris",male,22yrs,1,0,A/5 21171,£7.5s,,S
+1,2,1.0,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38yrs,1,0,PC 17599,£71.5s,C85,C
+2,3,1.0,3.0,"Heikkinen, Miss. Laina",female,26yrs,0,0,STON/O2. 3101282,£7.18s,,S
+3,4,1.0,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35yrs,1,0,113803,£53.2s,C123,S
+4,5,0.0,3.0,"Allen, Mr. William Henry",male,35yrs,0,0,373450,£8.1s,,S
+5,6,0.0,3.0,"Moran, Mr. James",male,,0,0,330877,£8.9s,,Q
+6,7,0.0,,"McCarthy, Mr. Timothy J",male,54yrs,0,0,17463,£51.17s,E46,S
+7,8,0.0,3.0,"Palsson, Master. Gosta Leonard",male,2yrs,3,1,349909,£21.1s,,S
+8,9,1.0,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27yrs,0,2,347742,£11.2s,,S
+9,10,1.0,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",female,14yrs,1,0,237736,£30.1s,,C
+10,11,1.0,3.0,"Sandstrom, Miss. Marguerite Rut",female,4yrs,1,1,PP 9549,£16.13s,G6,S
+11,12,1.0,1.0,"Bonnell, Miss. Elizabeth",female,58yrs,0,0,113783,£26.11s,C103,S
+12,13,0.0,3.0,"Saundercock, Mr. William Henry",male,20yrs,0,0,A/5. 2151,£8.1s,,S
+13,14,0.0,3.0,"Andersson, Mr. Anders Johan",male,39yrs,1,5,347082,£31.5s,,S
+14,15,0.0,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14yrs,0,0,350406,£7.17s,,S
+15,16,1.0,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",female,55yrs,0,0,248706,£16.0s,,S
+16,17,0.0,3.0,"Rice, Master. Eugene",male,2yrs,4,1,382652,£29.2s,,Q
+17,18,1.0,2.0,"Williams, Mr. Charles Eugene",male,,0,0,244373,£13.0s,,S
+18,19,0.0,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31yrs,1,0,345763,£18.0s,,S
+19,20,1.0,,"Masselmani, Mrs. Fatima",female,,0,0,2649,£7.4s,,C
+20,21,0.0,2.0,"Fynney, Mr. Joseph J",male,35yrs,0,0,239865,£26.0s,,S
+21,22,1.0,2.0,"Beesley, Mr. Lawrence",male,34yrs,0,0,248698,£13.0s,D56,S
+22,23,1.0,3.0,"McGowan, Miss. Anna ""Annie""",female,15yrs,0,0,330923,£8.0s,,Q
+23,24,1.0,1.0,"Sloper, Mr. William Thompson",male,28yrs,0,0,113788,£35.10s,A6,S
+24,25,0.0,3.0,"Palsson, Miss. Torborg Danira",female,8yrs,3,1,349909,£21.1s,,S
+25,26,1.0,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38yrs,1,5,347077,£31.7s,,S
+26,27,0.0,3.0,"Emir, Mr. Farred Chehab",male,,0,0,2631,£7.4s,,C
+27,28,0.0,1.0,"Fortune, Mr. Charles Alexander",male,19yrs,3,2,19950,£263.0s,C23 C25 C27,S
+28,29,1.0,3.0,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,£7.17s,,Q
+29,30,0.0,3.0,"Todoroff, Mr. Lalio",male,,0,0,349216,£7.17s,,S
+30,31,0.0,1.0,"Uruchurtu, Don. Manuel E",male,40yrs,0,0,PC 17601,£27.14s,,C
+31,32,1.0,1.0,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,£146.10s,B78,C
+32,33,1.0,3.0,"Glynn, Miss. Mary Agatha",female,,0,0,335677,£7.15s,,Q
+33,34,0.0,2.0,"Wheadon, Mr. Edward H",male,66yrs,0,0,C.A. 24579,£10.10s,,S
+34,35,0.0,,"Meyer, Mr. Edgar Joseph",male,28yrs,1,0,PC 17604,£82.3s,,C
+35,36,0.0,1.0,"Holverson, Mr. Alexander Oskar",male,42yrs,1,0,113789,£52.0s,,S
+36,37,1.0,3.0,"Mamee, Mr. Hanna",male,,0,0,2677,£7.4s,,C
+37,38,0.0,3.0,"Cann, Mr. Ernest Charles",male,21yrs,0,0,A./5. 2152,£8.1s,,S
+38,39,0.0,3.0,"Vander Planke, Miss. Augusta Maria",female,18yrs,2,0,345764,£18.0s,,S
+39,40,1.0,3.0,"Nicola-Yarred, Miss. Jamila",female,14yrs,1,0,2651,£11.4s,,C
+40,41,0.0,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40yrs,1,0,7546,£9.9s,,S
+41,42,0.0,2.0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27yrs,1,0,11668,£21.0s,,S
+42,43,0.0,3.0,"Kraeff, Mr. Theodor",male,,0,0,349253,£7.17s,,C
+43,44,1.0,2.0,"Laroche, Miss. Simonne Marie Anne Andree",female,3yrs,1,2,SC/Paris 2123,£41.11s,,C
+44,45,1.0,3.0,"Devaney, Miss. Margaret Delia",female,19yrs,0,0,330958,£7.17s,,Q
+45,46,0.0,3.0,"Rogers, Mr. William John",male,,0,0,S.C./A.4. 23567,£8.1s,,S
+46,47,0.0,3.0,"Lennon, Mr. Denis",male,,1,0,370371,£15.10s,,Q
+47,48,1.0,3.0,"O'Driscoll, Miss. Bridget",female,,0,0,14311,£7.15s,,Q
+48,49,0.0,3.0,"Samaan, Mr. Youssef",male,,2,0,2662,£21.13s,,C
+49,50,0.0,3.0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18yrs,1,0,349237,£17.16s,,S
+50,51,0.0,3.0,"Panula, Master. Juha Niilo",male,7yrs,4,1,3101295,£39.13s,,S
+51,52,0.0,3.0,"Nosworthy, Mr. Richard Cater",male,21yrs,0,0,A/4. 39886,£7.15s,,S
+52,53,1.0,1.0,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49yrs,1,0,PC 17572,£76.14s,D33,C
+53,54,1.0,2.0,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29yrs,1,0,2926,£26.0s,,S
+54,55,0.0,1.0,"Ostby, Mr. Engelhart Cornelius",male,65yrs,0,1,113509,£61.19s,B30,C
+55,56,1.0,1.0,"Woolner, Mr. Hugh",male,,0,0,19947,£35.10s,C52,S
+56,57,,2.0,"Rugg, Miss. Emily",female,21yrs,0,0,C.A. 31026,£10.10s,,S
+57,58,0.0,3.0,"Novel, Mr. Mansouer",male,28yrs,0,0,2697,£7.4s,,C
+58,59,1.0,2.0,"West, Miss. Constance Mirium",female,5yrs,1,2,C.A. 34651,£27.15s,,S
+59,60,0.0,3.0,"Goodwin, Master. William Frederick",male,11yrs,5,2,CA 2144,£46.17s,,S
+60,61,0.0,3.0,"Sirayanian, Mr. Orsen",male,22yrs,0,0,2669,£7.4s,,C
+61,62,,1.0,"Icard, Miss. Amelie",female,38yrs,0,0,113572,£80.0s,B28,
+62,63,0.0,1.0,"Harris, Mr. Henry Birkhardt",male,45yrs,1,0,36973,£83.9s,C83,S
+63,64,0.0,3.0,"Skoog, Master. Harald",male,4yrs,3,2,347088,£27.17s,,S
+64,65,0.0,1.0,"Stewart, Mr. Albert A",male,,0,0,PC 17605,£27.14s,,C
+65,66,1.0,3.0,"Moubarek, Master. Gerios",male,,1,1,2661,£15.4s,,C
+66,67,1.0,2.0,"Nye, Mrs. (Elizabeth Ramell)",female,29yrs,0,0,C.A. 29395,£10.10s,F33,S
+67,68,0.0,3.0,"Crease, Mr. Ernest James",male,19yrs,0,0,S.P. 3464,£8.3s,,S
+68,69,1.0,3.0,"Andersson, Miss. Erna Alexandra",female,17yrs,4,2,3101281,£7.18s,,S
+69,70,0.0,3.0,"Kink, Mr. Vincenz",male,26yrs,2,0,315151,£8.13s,,S
+70,71,0.0,2.0,"Jenkin, Mr. Stephen Curnow",male,32yrs,0,0,C.A. 33111,£10.10s,,S
+71,72,0.0,3.0,"Goodwin, Miss. Lillian Amy",female,16yrs,5,2,CA 2144,£46.17s,,S
+72,73,0.0,2.0,"Hood, Mr. Ambrose Jr",male,21yrs,0,0,S.O.C. 14879,£73.10s,,S
+73,74,0.0,3.0,"Chronopoulos, Mr. Apostolos",male,26yrs,1,0,2680,£14.9s,,C
+74,75,1.0,3.0,"Bing, Mr. Lee",male,32yrs,0,0,1601,£56.9s,,S
+75,76,0.0,3.0,"Moen, Mr. Sigurd Hansen",male,25yrs,0,0,348123,£7.13s,F G73,S
+76,77,0.0,3.0,"Staneff, Mr. Ivan",male,,0,0,349208,£7.17s,,S
+77,78,0.0,3.0,"Moutal, Mr. Rahamin Haim",male,,0,0,374746,£8.1s,,S
+78,79,1.0,2.0,"Caldwell, Master. Alden Gates",male,0yrs,0,2,248738,£29.0s,,S
+79,80,1.0,3.0,"Dowdell, Miss. Elizabeth",female,30yrs,0,0,364516,£12.9s,,S
+80,81,0.0,3.0,"Waelens, Mr. Achille",male,22yrs,0,0,345767,£9.0s,,S
+81,82,1.0,,"Sheerlinck, Mr. Jan Baptist",male,29yrs,0,0,345779,£9.10s,,S
+82,83,1.0,3.0,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,£7.15s,,Q
+83,84,0.0,1.0,"Carrau, Mr. Francisco M",male,28yrs,0,0,113059,£47.2s,,S
+84,85,1.0,2.0,"Ilett, Miss. Bertha",female,17yrs,0,0,SO/C 14885,£10.10s,,S
+85,86,1.0,3.0,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33yrs,3,0,3101278,£15.16s,,S
+86,87,0.0,3.0,"Ford, Mr. William Neal",male,16yrs,1,3,W./C. 6608,£34.7s,,S
+87,88,0.0,3.0,"Slocovski, Mr. Selman Francis",male,,0,0,SOTON/OQ 392086,£8.1s,,S
+88,89,1.0,1.0,"Fortune, Miss. Mabel Helen",female,23yrs,3,2,19950,£263.0s,C23 C25 C27,S
+89,90,0.0,3.0,"Celotti, Mr. Francesco",male,24yrs,0,0,343275,£8.1s,,S
+90,91,,3.0,"Christmann, Mr. Emil",male,29yrs,0,0,343276,£8.1s,,S
+91,92,0.0,3.0,"Andreasson, Mr. Paul Edvin",male,20yrs,0,0,347466,£7.17s,,S
+92,93,0.0,1.0,"Chaffee, Mr. Herbert Fuller",male,46yrs,1,0,W.E.P. 5734,£61.3s,E31,S
+93,94,0.0,3.0,"Dean, Mr. Bertram Frank",male,26yrs,1,2,C.A. 2315,£20.11s,,S
+94,95,0.0,3.0,"Coxon, Mr. Daniel",male,59yrs,0,0,364500,£7.5s,,S
+95,96,0.0,3.0,"Shorney, Mr. Charles Joseph",male,,0,0,374910,£8.1s,,S
+96,97,0.0,1.0,"Goldschmidt, Mr. George B",male,71yrs,0,0,PC 17754,£34.13s,A5,C
+97,98,,1.0,"Greenfield, Mr. William Bertram",male,23yrs,0,1,PC 17759,£63.7s,D10 D12,C
+98,99,1.0,2.0,"Doling, Mrs. John T (Ada Julia Bone)",female,34yrs,0,1,231919,£23.0s,,S
+99,100,0.0,2.0,"Kantor, Mr. Sinai",male,34yrs,1,0,244367,£26.0s,,S
+100,101,0.0,3.0,"Petranec, Miss. Matilda",female,28yrs,0,0,349245,£7.17s,,S
+101,102,0.0,3.0,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,0,349215,£7.17s,,S
+102,103,0.0,1.0,"White, Mr. Richard Frasar",male,21yrs,0,1,35281,£77.5s,D26,S
+103,104,0.0,3.0,"Johansson, Mr. Gustaf Joel",male,33yrs,0,0,7540,£8.13s,,S
+104,105,0.0,3.0,"Gustafsson, Mr. Anders Vilhelm",male,37yrs,2,0,3101276,£7.18s,,S
+105,106,0.0,3.0,"Mionoff, Mr. Stoytcho",male,28yrs,0,0,349207,£7.17s,,S
+106,107,1.0,3.0,"Salkjelsvik, Miss. Anna Kristine",female,21yrs,0,0,343120,£7.13s,,S
+107,108,1.0,3.0,"Moss, Mr. Albert Johan",male,,0,0,312991,£7.15s,,S
+108,109,0.0,3.0,"Rekic, Mr. Tido",male,38yrs,0,0,349249,£7.17s,,S
+109,110,1.0,3.0,"Moran, Miss. Bertha",female,,1,0,371110,£24.2s,,Q
+110,111,0.0,1.0,"Porter, Mr. Walter Chamberlain",male,47yrs,0,0,110465,£52.0s,C110,S
+111,112,0.0,3.0,"Zabour, Miss. Hileni",female,14yrs,1,0,2665,£14.9s,,C
+112,113,0.0,3.0,"Barton, Mr. David John",male,22yrs,0,0,324669,£8.1s,,S
+113,114,0.0,3.0,"Jussila, Miss. Katriina",female,20yrs,1,0,4136,£9.16s,,S
+114,115,0.0,3.0,"Attalah, Miss. Malake",female,17yrs,0,0,2627,£14.9s,,C
+115,116,0.0,3.0,"Pekoniemi, Mr. Edvard",male,21yrs,0,0,STON/O 2. 3101294,£7.18s,,S
+116,117,0.0,3.0,"Connors, Mr. Patrick",male,70yrs,0,0,370369,£7.15s,,Q
+117,118,0.0,2.0,"Turpin, Mr. William John Robert",male,29yrs,1,0,11668,£21.0s,,S
+118,119,0.0,1.0,"Baxter, Mr. Quigg Edmond",male,24yrs,0,1,PC 17558,£247.10s,B58 B60,C
+119,120,0.0,3.0,"Andersson, Miss. Ellis Anna Maria",female,2yrs,4,2,347082,£31.5s,,S
+120,121,0.0,2.0,"Hickman, Mr. Stanley George",male,21yrs,2,0,S.O.C. 14879,£73.10s,,S
+121,122,0.0,3.0,"Moore, Mr. Leonard Charles",male,,0,0,A4. 54510,£8.1s,,S
+122,123,0.0,2.0,"Nasser, Mr. Nicholas",male,32yrs,1,0,237736,£30.1s,,C
+123,124,1.0,2.0,"Webber, Miss. Susan",female,32yrs,0,0,27267,£13.0s,E101,S
+124,125,0.0,,"White, Mr. Percival Wayland",male,54yrs,0,1,35281,£77.5s,D26,S
+125,126,1.0,3.0,"Nicola-Yarred, Master. Elias",male,12yrs,1,0,2651,£11.4s,,C
+126,127,0.0,3.0,"McMahon, Mr. Martin",male,,0,0,370372,£7.15s,,Q
+127,128,1.0,3.0,"Madsen, Mr. Fridtjof Arne",male,24yrs,0,0,C 17369,£7.2s,,S
+128,129,1.0,3.0,"Peter, Miss. Anna",female,,1,1,2668,£22.7s,F E69,C
+129,130,0.0,3.0,"Ekstrom, Mr. Johan",male,45yrs,0,0,347061,£6.19s,,S
+130,131,0.0,3.0,"Drazenoic, Mr. Jozef",male,33yrs,0,0,349241,£7.17s,,C
+131,132,0.0,3.0,"Coelho, Mr. Domingos Fernandeo",male,20yrs,0,0,SOTON/O.Q. 3101307,£7.0s,,S
+132,133,0.0,3.0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47yrs,1,0,A/5. 3337,£14.10s,,S
+133,134,1.0,2.0,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29yrs,1,0,228414,£26.0s,,S
+134,135,0.0,2.0,"Sobey, Mr. Samuel James Hayden",male,25yrs,0,0,C.A. 29178,£13.0s,,S
+135,136,0.0,2.0,"Richard, Mr. Emile",male,23yrs,0,0,SC/PARIS 2133,£15.0s,,C
+136,137,1.0,1.0,"Newsom, Miss. Helen Monypeny",female,19yrs,0,2,11752,£26.5s,D47,S
+137,138,0.0,1.0,"Futrelle, Mr. Jacques Heath",male,37yrs,1,0,113803,£53.2s,C123,S
+138,139,0.0,3.0,"Osen, Mr. Olaf Elon",male,16yrs,0,0,7534,£9.4s,,S
+139,140,0.0,1.0,"Giglio, Mr. Victor",male,24yrs,0,0,PC 17593,£79.4s,B86,C
+140,141,0.0,3.0,"Boulos, Mrs. Joseph (Sultana)",female,,0,2,2678,£15.4s,,C
+141,142,1.0,3.0,"Nysten, Miss. Anna Sofia",female,22yrs,0,0,347081,£7.15s,,S
+142,143,1.0,3.0,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24yrs,1,0,STON/O2. 3101279,£15.16s,,S
+143,144,0.0,3.0,"Burke, Mr. Jeremiah",male,19yrs,0,0,365222,£6.15s,,Q
+144,145,0.0,2.0,"Andrew, Mr. Edgardo Samuel",male,18yrs,0,0,231945,£11.10s,,S
+145,146,0.0,2.0,"Nicholls, Mr. Joseph Charles",male,19yrs,1,1,C.A. 33112,£36.15s,,S
+146,147,1.0,3.0,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27yrs,0,0,350043,£7.15s,,S
+147,148,0.0,3.0,"Ford, Miss. Robina Maggie ""Ruby""",female,9yrs,2,2,W./C. 6608,£34.7s,,S
+148,149,,2.0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36yrs,0,2,230080,£26.0s,F2,S
+149,150,0.0,2.0,"Byles, Rev. Thomas Roussel Davids",male,42yrs,0,0,244310,£13.0s,,S
+150,151,0.0,2.0,"Bateman, Rev. Robert James",male,51yrs,0,0,S.O.P. 1166,£12.10s,,S
+151,152,1.0,1.0,"Pears, Mrs. Thomas (Edith Wearne)",female,22yrs,1,0,113776,£66.11s,C2,S
+152,153,0.0,3.0,"Meo, Mr. Alfonzo",male,55yrs,0,0,A.5. 11206,£8.1s,,S
+153,154,0.0,3.0,"van Billiard, Mr. Austin Blyler",male,40yrs,0,2,A/5. 851,£14.10s,,S
+154,155,0.0,3.0,"Olsen, Mr. Ole Martin",male,,0,0,Fa 265302,£7.6s,,S
+155,156,0.0,1.0,"Williams, Mr. Charles Duane",male,51yrs,0,1,PC 17597,£61.7s,,C
+156,157,,3.0,"Gilnagh, Miss. Katherine ""Katie""",female,16yrs,0,0,35851,£7.14s,,Q
+157,158,0.0,3.0,"Corn, Mr. Harry",male,30yrs,0,0,SOTON/OQ 392090,£8.1s,,S
+158,159,0.0,3.0,"Smiljanic, Mr. Mile",male,,0,0,315037,£8.13s,,S
+159,160,0.0,3.0,"Sage, Master. Thomas Henry",male,,8,2,CA. 2343,£69.10s,,S
+160,161,0.0,3.0,"Cribb, Mr. John Hatfield",male,44yrs,0,1,371362,£16.2s,,S
+161,162,1.0,2.0,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40yrs,0,0,C.A. 33595,£15.15s,,S
+162,163,0.0,3.0,"Bengtsson, Mr. John Viktor",male,26yrs,0,0,347068,£7.15s,,S
+163,164,0.0,3.0,"Calic, Mr. Jovo",male,17yrs,0,0,315093,£8.13s,,S
+164,165,,3.0,"Panula, Master. Eino Viljami",male,1yrs,4,1,3101295,£39.13s,,S
+165,166,1.0,3.0,"Goldsmith, Master. Frank John William ""Frankie""",male,9yrs,0,2,363291,£20.10s,,S
+166,167,1.0,1.0,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,£55.0s,E33,S
+167,168,0.0,3.0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45yrs,1,4,347088,£27.17s,,S
+168,169,0.0,1.0,"Baumann, Mr. John D",male,,0,0,PC 17318,£25.18s,,S
+169,170,0.0,3.0,"Ling, Mr. Lee",male,28yrs,0,0,1601,£56.9s,,S
+170,171,0.0,1.0,"Van der hoef, Mr. Wyckoff",male,61yrs,0,0,111240,£33.10s,B19,S
+171,172,0.0,3.0,"Rice, Master. Arthur",male,4yrs,4,1,382652,£29.2s,,Q
+172,173,1.0,3.0,"Johnson, Miss. Eleanor Ileen",female,1yrs,1,1,347742,£11.2s,,S
+173,174,0.0,3.0,"Sivola, Mr. Antti Wilhelm",male,21yrs,0,0,STON/O 2. 3101280,£7.18s,,S
+174,175,0.0,1.0,"Smith, Mr. James Clinch",male,56yrs,0,0,17764,£30.13s,A7,C
+175,176,0.0,3.0,"Klasen, Mr. Klas Albin",male,18yrs,1,1,350404,£7.17s,,S
+176,177,0.0,3.0,"Lefebre, Master. Henry Forbes",male,,3,1,4133,£25.9s,,S
+177,178,0.0,1.0,"Isham, Miss. Ann Elizabeth",female,50yrs,0,0,PC 17595,£28.14s,C49,C
+178,179,0.0,2.0,"Hale, Mr. Reginald",male,30yrs,0,0,250653,£13.0s,,S
+179,180,0.0,3.0,"Leonard, Mr. Lionel",male,36yrs,0,0,LINE,£0.0s,,S
+180,181,0.0,3.0,"Sage, Miss. Constance Gladys",female,,8,2,CA. 2343,£69.10s,,S
+181,182,0.0,2.0,"Pernot, Mr. Rene",male,,0,0,SC/PARIS 2131,£15.1s,,C
+182,183,0.0,3.0,"Asplund, Master. Clarence Gustaf Hugo",male,9yrs,4,2,347077,£31.7s,,S
+183,184,1.0,2.0,"Becker, Master. Richard F",male,1yrs,2,1,230136,£39.0s,F4,S
+184,185,1.0,3.0,"Kink-Heilmann, Miss. Luise Gretchen",female,4yrs,0,2,315153,£22.0s,,S
+185,186,0.0,1.0,"Rood, Mr. Hugh Roscoe",male,,0,0,113767,£50.0s,A32,S
+186,187,1.0,3.0,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,£15.10s,,Q
+187,188,1.0,1.0,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45yrs,0,0,111428,£26.11s,,S
+188,189,0.0,3.0,"Bourke, Mr. John",male,40yrs,1,1,364849,£15.10s,,Q
+189,190,0.0,3.0,"Turcin, Mr. Stjepan",male,36yrs,0,0,349247,£7.17s,,S
+190,191,1.0,2.0,"Pinsky, Mrs. (Rosa)",female,32yrs,0,0,234604,£13.0s,,S
+191,192,0.0,2.0,"Carbines, Mr. William",male,19yrs,0,0,28424,£13.0s,,S
+192,193,1.0,3.0,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19yrs,1,0,350046,£7.17s,,S
+193,194,1.0,2.0,"Navratil, Master. Michel M",male,3yrs,1,1,230080,£26.0s,F2,S
+194,195,1.0,1.0,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44yrs,0,0,PC 17610,£27.14s,B4,C
+195,196,1.0,1.0,"Lurette, Miss. Elise",female,58yrs,0,0,PC 17569,£146.10s,B80,C
+196,197,0.0,3.0,"Mernagh, Mr. Robert",male,,0,0,368703,£7.15s,,Q
+197,198,0.0,3.0,"Olsen, Mr. Karl Siegwart Andreas",male,42yrs,0,1,4579,£8.8s,,S
+198,199,,3.0,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,£7.15s,,Q
+199,200,0.0,2.0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24yrs,0,0,248747,£13.0s,,S
+200,201,0.0,3.0,"Vande Walle, Mr. Nestor Cyriel",male,28yrs,0,0,345770,£9.10s,,S
+201,202,0.0,3.0,"Sage, Mr. Frederick",male,,8,2,CA. 2343,£69.10s,,S
+202,203,0.0,3.0,"Johanson, Mr. Jakob Alfred",male,34yrs,0,0,3101264,£6.9s,,S
+203,204,0.0,3.0,"Youseff, Mr. Gerious",male,45yrs,0,0,2628,£7.4s,,C
+204,205,1.0,3.0,"Cohen, Mr. Gurshon ""Gus""",male,18yrs,0,0,A/5 3540,£8.1s,,S
+205,206,0.0,3.0,"Strom, Miss. Telma Matilda",female,2yrs,0,1,347054,£10.9s,G6,S
+206,207,0.0,3.0,"Backstrom, Mr. Karl Alfred",male,32yrs,1,0,3101278,£15.16s,,S
+207,208,1.0,3.0,"Albimona, Mr. Nassef Cassem",male,26yrs,0,0,2699,£18.15s,,C
+208,209,1.0,3.0,"Carr, Miss. Helen ""Ellen""",female,16yrs,0,0,367231,£7.15s,,Q
+209,210,1.0,1.0,"Blank, Mr. Henry",male,40yrs,0,0,112277,£31.0s,A31,C
+210,211,0.0,3.0,"Ali, Mr. Ahmed",male,24yrs,0,0,SOTON/O.Q. 3101311,£7.0s,,S
+211,212,1.0,2.0,"Cameron, Miss. Clear Annie",female,35yrs,0,0,F.C.C. 13528,£21.0s,,S
+212,213,0.0,3.0,"Perkin, Mr. John Henry",male,22yrs,0,0,A/5 21174,£7.5s,,S
+213,214,0.0,2.0,"Givard, Mr. Hans Kristensen",male,30yrs,0,0,250646,£13.0s,,S
+214,215,0.0,3.0,"Kiernan, Mr. Philip",male,,1,0,367229,£7.15s,,Q
+215,216,1.0,1.0,"Newell, Miss. Madeleine",female,31yrs,1,0,35273,£113.5s,D36,C
+216,217,1.0,3.0,"Honkanen, Miss. Eliina",female,27yrs,0,0,STON/O2. 3101283,£7.18s,,S
+217,218,0.0,2.0,"Jacobsohn, Mr. Sidney Samuel",male,42yrs,1,0,243847,£27.0s,,S
+218,219,1.0,1.0,"Bazzani, Miss. Albina",female,32yrs,0,0,11813,£76.5s,D15,C
+219,220,0.0,2.0,"Harris, Mr. Walter",male,30yrs,0,0,W/C 14208,£10.10s,,S
+220,221,1.0,3.0,"Sunderland, Mr. Victor Francis",male,16yrs,0,0,SOTON/OQ 392089,£8.1s,,S
+221,222,0.0,2.0,"Bracken, Mr. James H",male,27yrs,0,0,220367,£13.0s,,S
+222,223,0.0,3.0,"Green, Mr. George Henry",male,51yrs,0,0,21440,£8.1s,,S
+223,224,0.0,3.0,"Nenkoff, Mr. Christo",male,,0,0,349234,£7.17s,,S
+224,225,1.0,1.0,"Hoyt, Mr. Frederick Maxfield",male,38yrs,1,0,19943,£90.0s,C93,S
+225,226,0.0,3.0,"Berglund, Mr. Karl Ivar Sven",male,22yrs,0,0,PP 4348,£9.6s,,S
+226,227,1.0,2.0,"Mellors, Mr. William John",male,19yrs,0,0,SW/PP 751,£10.10s,,S
+227,228,0.0,3.0,"Lovell, Mr. John Hall (""Henry"")",male,20yrs,0,0,A/5 21173,£7.5s,,S
+228,229,0.0,2.0,"Fahlstrom, Mr. Arne Jonas",male,18yrs,0,0,236171,£13.0s,,S
+229,230,0.0,3.0,"Lefebre, Miss. Mathilde",female,,3,1,4133,£25.9s,,S
+230,231,1.0,1.0,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35yrs,1,0,36973,£83.9s,C83,S
+231,232,,3.0,"Larsson, Mr. Bengt Edvin",male,29yrs,0,0,347067,£7.15s,,S
+232,233,,2.0,"Sjostedt, Mr. Ernst Adolf",male,59yrs,0,0,237442,£13.10s,,S
+233,234,1.0,3.0,"Asplund, Miss. Lillian Gertrud",female,5yrs,4,2,347077,£31.7s,,S
+234,235,0.0,2.0,"Leyson, Mr. Robert William Norman",male,24yrs,0,0,C.A. 29566,£10.10s,,S
+235,236,,3.0,"Harknett, Miss. Alice Phoebe",female,,0,0,W./C. 6609,£7.10s,,S
+236,237,0.0,2.0,"Hold, Mr. Stephen",male,44yrs,1,0,26707,£26.0s,,S
+237,238,1.0,2.0,"Collyer, Miss. Marjorie ""Lottie""",female,8yrs,0,2,C.A. 31921,£26.5s,,S
+238,239,0.0,2.0,"Pengelly, Mr. Frederick William",male,19yrs,0,0,28665,£10.10s,,S
+239,240,0.0,2.0,"Hunt, Mr. George Henry",male,33yrs,0,0,SCO/W 1585,£12.5s,,S
+240,241,0.0,,"Zabour, Miss. Thamine",female,,1,0,2665,£14.9s,,C
+241,242,1.0,3.0,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,£15.10s,,Q
+242,243,0.0,2.0,"Coleridge, Mr. Reginald Charles",male,29yrs,0,0,W./C. 14263,£10.10s,,S
+243,244,0.0,3.0,"Maenpaa, Mr. Matti Alexanteri",male,22yrs,0,0,STON/O 2. 3101275,£7.2s,,S
+244,245,0.0,3.0,"Attalah, Mr. Sleiman",male,30yrs,0,0,2694,£7.4s,,C
+245,246,0.0,1.0,"Minahan, Dr. William Edward",male,44yrs,2,0,19928,£90.0s,C78,Q
+246,247,0.0,3.0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25yrs,0,0,347071,£7.15s,,S
+247,248,1.0,2.0,"Hamalainen, Mrs. William (Anna)",female,24yrs,0,2,250649,£14.10s,,S
+248,249,1.0,1.0,"Beckwith, Mr. Richard Leonard",male,37yrs,1,1,11751,£52.11s,D35,S
+249,250,0.0,2.0,"Carter, Rev. Ernest Courtenay",male,54yrs,1,0,244252,£26.0s,,S
+250,251,0.0,3.0,"Reed, Mr. James George",male,,0,0,362316,£7.5s,,S
+251,252,0.0,3.0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29yrs,1,1,347054,£10.9s,G6,S
+252,253,0.0,1.0,"Stead, Mr. William Thomas",male,62yrs,0,0,113514,£26.11s,C87,S
+253,254,0.0,3.0,"Lobb, Mr. William Arthur",male,30yrs,1,0,A/5. 3336,£16.2s,,S
+254,255,0.0,3.0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41yrs,0,2,370129,£20.4s,,S
+255,256,1.0,3.0,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29yrs,0,2,2650,£15.4s,,C
+256,257,1.0,1.0,"Thorne, Mrs. Gertrude Maybelle",female,,0,0,PC 17585,£79.4s,,C
+257,258,1.0,1.0,"Cherry, Miss. Gladys",female,30yrs,0,0,110152,£86.10s,B77,S
+258,259,1.0,1.0,"Ward, Miss. Anna",female,35yrs,0,0,PC 17755,£512.6s,,C
+259,260,1.0,2.0,"Parrish, Mrs. (Lutie Davis)",female,50yrs,0,1,230433,£26.0s,,S
+260,261,0.0,3.0,"Smith, Mr. Thomas",male,,0,0,384461,£7.15s,,Q
+261,262,1.0,,"Asplund, Master. Edvin Rojj Felix",male,3yrs,4,2,347077,£31.7s,,S
+262,263,0.0,1.0,"Taussig, Mr. Emil",male,52yrs,1,1,110413,£79.13s,E67,S
+263,264,0.0,1.0,"Harrison, Mr. William",male,40yrs,0,0,112059,£0.0s,B94,S
+264,265,0.0,3.0,"Henry, Miss. Delia",female,,0,0,382649,£7.15s,,Q
+265,266,0.0,,"Reeves, Mr. David",male,36yrs,0,0,C.A. 17248,£10.10s,,S
+266,267,0.0,3.0,"Panula, Mr. Ernesti Arvid",male,16yrs,4,1,3101295,£39.13s,,S
+267,268,1.0,3.0,"Persson, Mr. Ernst Ulrik",male,25yrs,1,0,347083,£7.15s,,S
+268,269,1.0,1.0,"Graham, Mrs. William Thompson (Edith Junkins)",female,58yrs,0,1,PC 17582,£153.9s,C125,S
+269,270,1.0,1.0,"Bissette, Miss. Amelia",female,35yrs,0,0,PC 17760,£135.12s,C99,S
+270,271,0.0,1.0,"Cairns, Mr. Alexander",male,,0,0,113798,£31.0s,,S
+271,272,1.0,3.0,"Tornquist, Mr. William Henry",male,25yrs,0,0,LINE,£0.0s,,S
+272,273,1.0,2.0,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41yrs,0,1,250644,£19.10s,,S
+273,274,0.0,1.0,"Natsch, Mr. Charles H",male,37yrs,0,1,PC 17596,£29.13s,C118,C
+274,275,1.0,3.0,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,£7.15s,,Q
+275,276,,1.0,"Andrews, Miss. Kornelia Theodosia",female,63yrs,1,0,13502,£77.19s,D7,S
+276,277,0.0,3.0,"Lindblom, Miss. Augusta Charlotta",female,45yrs,0,0,347073,£7.15s,,S
+277,278,0.0,2.0,"Parkes, Mr. Francis ""Frank""",male,,0,0,239853,£0.0s,,S
+278,279,0.0,3.0,"Rice, Master. Eric",male,7yrs,4,1,382652,£29.2s,,Q
+279,280,1.0,3.0,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35yrs,1,1,C.A. 2673,£20.5s,,S
+280,281,0.0,3.0,"Duane, Mr. Frank",male,65yrs,0,0,336439,£7.15s,,Q
+281,282,0.0,3.0,"Olsson, Mr. Nils Johan Goransson",male,28yrs,0,0,347464,£7.17s,,S
+282,283,0.0,3.0,"de Pelsmaeker, Mr. Alfons",male,16yrs,0,0,345778,£9.10s,,S
+283,284,1.0,,"Dorking, Mr. Edward Arthur",male,19yrs,0,0,A/5. 10482,£8.1s,,S
+284,285,0.0,1.0,"Smith, Mr. Richard William",male,,0,0,113056,£26.0s,A19,S
+285,286,0.0,3.0,"Stankovic, Mr. Ivan",male,33yrs,0,0,349239,£8.13s,,C
+286,287,1.0,3.0,"de Mulder, Mr. Theodore",male,30yrs,0,0,345774,£9.10s,,S
+287,288,0.0,3.0,"Naidenoff, Mr. Penko",male,22yrs,0,0,349206,£7.17s,,S
+288,289,1.0,2.0,"Hosono, Mr. Masabumi",male,42yrs,0,0,237798,£13.0s,,S
+289,290,1.0,3.0,"Connolly, Miss. Kate",female,22yrs,0,0,370373,£7.15s,,Q
+290,291,1.0,1.0,"Barber, Miss. Ellen ""Nellie""",female,26yrs,0,0,19877,£78.16s,,S
+291,292,1.0,1.0,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19yrs,1,0,11967,£91.1s,B49,C
+292,293,0.0,2.0,"Levy, Mr. Rene Jacques",male,36yrs,0,0,SC/Paris 2163,£12.17s,D,C
+293,294,0.0,3.0,"Haas, Miss. Aloisia",female,24yrs,0,0,349236,£8.16s,,S
+294,295,0.0,3.0,"Mineff, Mr. Ivan",male,24yrs,0,0,349233,£7.17s,,S
+295,296,,1.0,"Lewy, Mr. Ervin G",male,,0,0,PC 17612,£27.14s,,C
+296,297,0.0,3.0,"Hanna, Mr. Mansour",male,23yrs,0,0,2693,£7.4s,,C
+297,298,0.0,1.0,"Allison, Miss. Helen Loraine",female,2yrs,1,2,113781,£151.11s,C22 C26,S
+298,299,1.0,1.0,"Saalfeld, Mr. Adolphe",male,,0,0,19988,£30.10s,C106,S
+299,300,1.0,1.0,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50yrs,0,1,PC 17558,£247.10s,B58 B60,C
+300,301,1.0,3.0,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,£7.15s,,Q
+301,302,1.0,3.0,"McCoy, Mr. Bernard",male,,2,0,367226,£23.5s,,Q
+302,303,0.0,3.0,"Johnson, Mr. William Cahoone Jr",male,19yrs,0,0,LINE,£0.0s,,S
+303,304,1.0,2.0,"Keane, Miss. Nora A",female,,0,0,226593,£12.6s,E101,Q
+304,305,0.0,3.0,"Williams, Mr. Howard Hugh ""Harry""",male,,0,0,A/5 2466,£8.1s,,S
+305,306,1.0,1.0,"Allison, Master. Hudson Trevor",male,0yrs,1,2,113781,£151.11s,C22 C26,S
+306,307,1.0,1.0,"Fleming, Miss. Margaret",female,,0,0,17421,£110.17s,,C
+307,308,1.0,1.0,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17yrs,1,0,PC 17758,£108.18s,C65,C
+308,309,0.0,2.0,"Abelson, Mr. Samuel",male,30yrs,1,0,P/PP 3381,£24.0s,,C
+309,310,1.0,1.0,"Francatelli, Miss. Laura Mabel",female,30yrs,0,0,PC 17485,£56.18s,E36,C
+310,311,1.0,1.0,"Hays, Miss. Margaret Bechstein",female,24yrs,0,0,11767,£83.3s,C54,C
+311,312,1.0,1.0,"Ryerson, Miss. Emily Borie",female,18yrs,2,2,PC 17608,£262.7s,B57 B59 B63 B66,C
+312,313,0.0,2.0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26yrs,1,1,250651,£26.0s,,S
+313,314,0.0,3.0,"Hendekovic, Mr. Ignjac",male,28yrs,0,0,349243,£7.17s,,S
+314,315,0.0,2.0,"Hart, Mr. Benjamin",male,43yrs,1,1,F.C.C. 13529,£26.5s,,S
+315,316,1.0,3.0,"Nilsson, Miss. Helmina Josefina",female,26yrs,0,0,347470,£7.17s,,S
+316,317,1.0,2.0,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24yrs,1,0,244367,£26.0s,,S
+317,318,0.0,2.0,"Moraweck, Dr. Ernest",male,54yrs,0,0,29011,£14.0s,,S
+318,319,1.0,1.0,"Wick, Miss. Mary Natalie",female,31yrs,0,2,36928,£164.17s,C7,S
+319,320,1.0,1.0,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40yrs,1,1,16966,£134.10s,E34,C
+320,321,0.0,3.0,"Dennis, Mr. Samuel",male,22yrs,0,0,A/5 21172,£7.5s,,S
+321,322,0.0,3.0,"Danoff, Mr. Yoto",male,27yrs,0,0,349219,£7.17s,,S
+322,323,1.0,2.0,"Slayter, Miss. Hilda Mary",female,30yrs,0,0,234818,£12.6s,,Q
+323,324,1.0,2.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22yrs,1,1,248738,£29.0s,,S
+324,325,0.0,3.0,"Sage, Mr. George John Jr",male,,8,2,CA. 2343,£69.10s,,S
+325,326,1.0,1.0,"Young, Miss. Marie Grice",female,36yrs,0,0,PC 17760,£135.12s,C32,C
+326,327,0.0,3.0,"Nysveen, Mr. Johan Hansen",male,61yrs,0,0,345364,£6.4s,,S
+327,328,1.0,,"Ball, Mrs. (Ada E Hall)",female,36yrs,0,0,28551,£13.0s,D,S
+328,329,1.0,3.0,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31yrs,1,1,363291,£20.10s,,S
+329,330,1.0,1.0,"Hippach, Miss. Jean Gertrude",female,16yrs,0,1,111361,£57.19s,B18,C
+330,331,1.0,3.0,"McCoy, Miss. Agnes",female,,2,0,367226,£23.5s,,Q
+331,332,0.0,1.0,"Partner, Mr. Austen",male,45yrs,0,0,113043,£28.10s,C124,S
+332,333,0.0,1.0,"Graham, Mr. George Edward",male,38yrs,0,1,PC 17582,£153.9s,C91,S
+333,334,0.0,3.0,"Vander Planke, Mr. Leo Edmondus",male,16yrs,2,0,345764,£18.0s,,S
+334,335,1.0,1.0,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,0,PC 17611,£133.13s,,S
+335,336,0.0,3.0,"Denkoff, Mr. Mitto",male,,0,0,349225,£7.17s,,S
+336,337,0.0,1.0,"Pears, Mr. Thomas Clinton",male,29yrs,1,0,113776,£66.11s,C2,S
+337,338,1.0,1.0,"Burns, Miss. Elizabeth Margaret",female,41yrs,0,0,16966,£134.10s,E40,C
+338,339,1.0,3.0,"Dahl, Mr. Karl Edwart",male,45yrs,0,0,7598,£8.1s,,S
+339,340,0.0,1.0,"Blackwell, Mr. Stephen Weart",male,45yrs,0,0,113784,£35.10s,T,S
+340,341,,2.0,"Navratil, Master. Edmond Roger",male,2yrs,1,1,230080,£26.0s,F2,S
+341,342,,1.0,"Fortune, Miss. Alice Elizabeth",female,24yrs,3,2,19950,£263.0s,C23 C25 C27,S
+342,343,0.0,2.0,"Collander, Mr. Erik Gustaf",male,28yrs,0,0,248740,£13.0s,,S
+343,344,0.0,2.0,"Sedgwick, Mr. Charles Frederick Waddington",male,25yrs,0,0,244361,£13.0s,,S
+344,345,0.0,2.0,"Fox, Mr. Stanley Hubert",male,36yrs,0,0,229236,£13.0s,,S
+345,346,1.0,2.0,"Brown, Miss. Amelia ""Mildred""",female,24yrs,0,0,248733,£13.0s,F33,S
+346,347,1.0,2.0,"Smith, Miss. Marion Elsie",female,40yrs,0,0,31418,£13.0s,,S
+347,348,1.0,3.0,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,1,0,386525,£16.2s,,S
+348,349,1.0,3.0,"Coutts, Master. William Loch ""William""",male,3yrs,1,1,C.A. 37671,£15.18s,,S
+349,350,0.0,3.0,"Dimic, Mr. Jovan",male,42yrs,0,0,315088,£8.13s,,S
+350,351,0.0,3.0,"Odahl, Mr. Nils Martin",male,23yrs,0,0,7267,£9.4s,,S
+351,352,0.0,1.0,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,£35.0s,C128,S
+352,353,0.0,3.0,"Elias, Mr. Tannous",male,15yrs,1,1,2695,£7.4s,,C
+353,354,0.0,3.0,"Arnold-Franchi, Mr. Josef",male,25yrs,1,0,349237,£17.16s,,S
+354,355,0.0,3.0,"Yousif, Mr. Wazli",male,,0,0,2647,£7.4s,,C
+355,356,0.0,3.0,"Vanden Steen, Mr. Leo Peter",male,28yrs,0,0,345783,£9.10s,,S
+356,357,1.0,1.0,"Bowerman, Miss. Elsie Edith",female,22yrs,0,1,113505,£55.0s,E33,S
+357,358,0.0,2.0,"Funk, Miss. Annie Clemmer",female,38yrs,0,0,237671,£13.0s,,S
+358,359,1.0,3.0,"McGovern, Miss. Mary",female,,0,0,330931,£7.17s,,Q
+359,360,1.0,3.0,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,0,330980,£7.17s,,Q
+360,361,0.0,,"Skoog, Mr. Wilhelm",male,40yrs,1,4,347088,£27.17s,,S
+361,362,0.0,2.0,"del Carlo, Mr. Sebastiano",male,29yrs,1,0,SC/PARIS 2167,£27.14s,,C
+362,363,0.0,3.0,"Barbara, Mrs. (Catherine David)",female,45yrs,0,1,2691,£14.9s,,C
+363,364,0.0,3.0,"Asim, Mr. Adola",male,35yrs,0,0,SOTON/O.Q. 3101310,£7.0s,,S
+364,365,0.0,3.0,"O'Brien, Mr. Thomas",male,,1,0,370365,£15.10s,,Q
+365,366,0.0,3.0,"Adahl, Mr. Mauritz Nils Martin",male,30yrs,0,0,C 7076,£7.5s,,S
+366,367,1.0,1.0,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60yrs,1,0,110813,£75.5s,D37,C
+367,368,1.0,3.0,"Moussa, Mrs. (Mantoura Boulos)",female,,0,0,2626,£7.4s,,C
+368,369,1.0,3.0,"Jermyn, Miss. Annie",female,,0,0,14313,£7.15s,,Q
+369,370,1.0,1.0,"Aubart, Mme. Leontine Pauline",female,24yrs,0,0,PC 17477,£69.5s,B35,C
+370,371,1.0,1.0,"Harder, Mr. George Achilles",male,25yrs,1,0,11765,£55.8s,E50,C
+371,372,,,"Wiklund, Mr. Jakob Alfred",male,18yrs,1,0,3101267,£6.9s,,S
+372,373,0.0,3.0,"Beavan, Mr. William Thomas",male,19yrs,0,0,323951,£8.1s,,S
+373,374,0.0,1.0,"Ringhini, Mr. Sante",male,22yrs,0,0,PC 17760,£135.12s,,C
+374,375,0.0,,"Palsson, Miss. Stina Viola",female,3yrs,3,1,349909,£21.1s,,S
+375,376,1.0,1.0,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,0,PC 17604,£82.3s,,C
+376,377,1.0,3.0,"Landergren, Miss. Aurora Adelia",female,22yrs,0,0,C 7077,£7.5s,,S
+377,378,0.0,1.0,"Widener, Mr. Harry Elkins",male,27yrs,0,2,113503,£211.10s,C82,C
+378,379,0.0,3.0,"Betros, Mr. Tannous",male,20yrs,0,0,2648,£4.0s,,C
+379,380,0.0,3.0,"Gustafsson, Mr. Karl Gideon",male,19yrs,0,0,347069,£7.15s,,S
+380,381,1.0,1.0,"Bidois, Miss. Rosalie",female,42yrs,0,0,PC 17757,£227.10s,,C
+381,382,1.0,3.0,"Nakid, Miss. Maria (""Mary"")",female,1yrs,0,2,2653,£15.14s,,C
+382,383,0.0,3.0,"Tikkanen, Mr. Juho",male,32yrs,0,0,STON/O 2. 3101293,£7.18s,,S
+383,384,1.0,1.0,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35yrs,1,0,113789,£52.0s,,S
+384,385,0.0,3.0,"Plotcharsky, Mr. Vasil",male,,0,0,349227,£7.17s,,S
+385,386,0.0,2.0,"Davies, Mr. Charles Henry",male,18yrs,0,0,S.O.C. 14879,£73.10s,,S
+386,387,0.0,3.0,"Goodwin, Master. Sidney Leonard",male,1yrs,5,2,CA 2144,£46.17s,,S
+387,388,1.0,2.0,"Buss, Miss. Kate",female,36yrs,0,0,27849,£13.0s,,S
+388,389,0.0,3.0,"Sadlier, Mr. Matthew",male,,0,0,367655,£7.14s,,Q
+389,390,1.0,2.0,"Lehmann, Miss. Bertha",female,17yrs,0,0,SC 1748,£12.0s,,C
+390,391,1.0,1.0,"Carter, Mr. William Ernest",male,36yrs,1,2,113760,£120.0s,B96 B98,S
+391,392,1.0,3.0,"Jansson, Mr. Carl Olof",male,21yrs,0,0,350034,£7.15s,,S
+392,393,0.0,3.0,"Gustafsson, Mr. Johan Birger",male,28yrs,2,0,3101277,£7.18s,,S
+393,394,1.0,1.0,"Newell, Miss. Marjorie",female,23yrs,1,0,35273,£113.5s,D36,C
+394,395,1.0,3.0,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24yrs,0,2,PP 9549,£16.13s,G6,S
+395,396,0.0,3.0,"Johansson, Mr. Erik",male,22yrs,0,0,350052,£7.15s,,S
+396,397,0.0,3.0,"Olsson, Miss. Elina",female,31yrs,0,0,350407,£7.17s,,S
+397,398,0.0,2.0,"McKane, Mr. Peter David",male,46yrs,0,0,28403,£26.0s,,S
+398,399,0.0,2.0,"Pain, Dr. Alfred",male,23yrs,0,0,244278,£10.10s,,S
+399,400,1.0,2.0,"Trout, Mrs. William H (Jessie L)",female,28yrs,0,0,240929,£12.13s,,S
+400,401,1.0,3.0,"Niskanen, Mr. Juha",male,39yrs,0,0,STON/O 2. 3101289,£7.18s,,S
+401,402,0.0,3.0,"Adams, Mr. John",male,26yrs,0,0,341826,£8.1s,,S
+402,403,0.0,3.0,"Jussila, Miss. Mari Aina",female,21yrs,1,0,4137,£9.16s,,S
+403,404,0.0,3.0,"Hakkarainen, Mr. Pekka Pietari",male,28yrs,1,0,STON/O2. 3101279,£15.16s,,S
+404,405,0.0,3.0,"Oreskovic, Miss. Marija",female,20yrs,0,0,315096,£8.13s,,S
+405,406,0.0,2.0,"Gale, Mr. Shadrach",male,34yrs,1,0,28664,£21.0s,,S
+406,407,0.0,3.0,"Widegren, Mr. Carl/Charles Peter",male,51yrs,0,0,347064,£7.15s,,S
+407,408,1.0,2.0,"Richards, Master. William Rowe",male,3yrs,1,1,29106,£18.15s,,S
+408,409,0.0,3.0,"Birkeland, Mr. Hans Martin Monsen",male,21yrs,0,0,312992,£7.15s,,S
+409,410,,3.0,"Lefebre, Miss. Ida",female,,3,1,4133,£25.9s,,S
+410,411,0.0,3.0,"Sdycoff, Mr. Todor",male,,0,0,349222,£7.17s,,S
+411,412,0.0,3.0,"Hart, Mr. Henry",male,,0,0,394140,£6.17s,,Q
+412,413,1.0,1.0,"Minahan, Miss. Daisy E",female,33yrs,1,0,19928,£90.0s,C78,Q
+413,414,0.0,2.0,"Cunningham, Mr. Alfred Fleming",male,,0,0,239853,£0.0s,,S
+414,415,1.0,3.0,"Sundman, Mr. Johan Julian",male,44yrs,0,0,STON/O 2. 3101269,£7.18s,,S
+415,416,0.0,3.0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,0,0,343095,£8.1s,,S
+416,417,1.0,2.0,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34yrs,1,1,28220,£32.10s,,S
+417,418,1.0,2.0,"Silven, Miss. Lyyli Karoliina",female,18yrs,0,2,250652,£13.0s,,S
+418,419,0.0,2.0,"Matthews, Mr. William John",male,30yrs,0,0,28228,£13.0s,,S
+419,420,0.0,3.0,"Van Impe, Miss. Catharina",female,10yrs,0,2,345773,£24.2s,,S
+420,421,0.0,3.0,"Gheorgheff, Mr. Stanio",male,,0,0,349254,£7.17s,,C
+421,422,,3.0,"Charters, Mr. David",male,21yrs,0,0,A/5. 13032,£7.14s,,Q
+422,423,0.0,3.0,"Zimmerman, Mr. Leo",male,29yrs,0,0,315082,£7.17s,,S
+423,424,0.0,3.0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28yrs,1,1,347080,£14.8s,,S
+424,425,0.0,3.0,"Rosblom, Mr. Viktor Richard",male,18yrs,1,1,370129,£20.4s,,S
+425,426,0.0,3.0,"Wiseman, Mr. Phillippe",male,,0,0,A/4. 34244,£7.5s,,S
+426,427,1.0,2.0,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28yrs,1,0,2003,£26.0s,,S
+427,428,1.0,2.0,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19yrs,0,0,250655,£26.0s,,S
+428,429,0.0,3.0,"Flynn, Mr. James",male,,0,0,364851,£7.15s,,Q
+429,430,1.0,3.0,"Pickard, Mr. Berk (Berk Trembisky)",male,32yrs,0,0,SOTON/O.Q. 392078,£8.1s,E10,S
+430,431,1.0,1.0,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28yrs,0,0,110564,£26.11s,C52,S
+431,432,1.0,3.0,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,£16.2s,,S
+432,433,1.0,2.0,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42yrs,1,0,SC/AH 3085,£26.0s,,S
+433,434,0.0,3.0,"Kallio, Mr. Nikolai Erland",male,17yrs,0,0,STON/O 2. 3101274,£7.2s,,S
+434,435,0.0,1.0,"Silvey, Mr. William Baird",male,50yrs,1,0,13507,£55.17s,E44,S
+435,436,1.0,1.0,"Carter, Miss. Lucile Polk",female,14yrs,1,2,113760,£120.0s,B96 B98,S
+436,437,0.0,3.0,"Ford, Miss. Doolina Margaret ""Daisy""",female,21yrs,2,2,W./C. 6608,£34.7s,,S
+437,438,1.0,,"Richards, Mrs. Sidney (Emily Hocking)",female,24yrs,2,3,29106,£18.15s,,S
+438,439,0.0,,"Fortune, Mr. Mark",male,64yrs,1,4,19950,£263.0s,C23 C25 C27,S
+439,440,0.0,2.0,"Kvillner, Mr. Johan Henrik Johannesson",male,31yrs,0,0,C.A. 18723,£10.10s,,S
+440,441,1.0,2.0,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45yrs,1,1,F.C.C. 13529,£26.5s,,S
+441,442,0.0,3.0,"Hampe, Mr. Leon",male,20yrs,0,0,345769,£9.10s,,S
+442,443,0.0,3.0,"Petterson, Mr. Johan Emil",male,25yrs,1,0,347076,£7.15s,,S
+443,444,1.0,2.0,"Reynaldo, Ms. Encarnacion",female,28yrs,0,0,230434,£13.0s,,S
+444,445,1.0,3.0,"Johannesen-Bratthammer, Mr. Bernt",male,,0,0,65306,£8.2s,,S
+445,446,1.0,1.0,"Dodge, Master. Washington",male,4yrs,0,2,33638,£81.17s,A34,S
+446,447,1.0,2.0,"Mellinger, Miss. Madeleine Violet",female,13yrs,0,1,250644,£19.10s,,S
+447,448,1.0,1.0,"Seward, Mr. Frederic Kimber",male,34yrs,0,0,113794,£26.11s,,S
+448,449,1.0,3.0,"Baclini, Miss. Marie Catherine",female,5yrs,2,1,2666,£19.5s,,C
+449,450,1.0,1.0,"Peuchen, Major. Arthur Godfrey",male,52yrs,0,0,113786,£30.10s,C104,S
+450,451,,2.0,"West, Mr. Edwy Arthur",male,36yrs,1,2,C.A. 34651,£27.15s,,S
+451,452,0.0,3.0,"Hagland, Mr. Ingvald Olai Olsen",male,,1,0,65303,£19.19s,,S
+452,453,0.0,1.0,"Foreman, Mr. Benjamin Laventall",male,30yrs,0,0,113051,£27.15s,C111,C
+453,454,1.0,1.0,"Goldenberg, Mr. Samuel L",male,49yrs,1,0,17453,£89.2s,C92,C
+454,455,0.0,3.0,"Peduzzi, Mr. Joseph",male,,0,0,A/5 2817,£8.1s,,S
+455,456,1.0,3.0,"Jalsevac, Mr. Ivan",male,29yrs,0,0,349240,£7.17s,,C
+456,457,0.0,1.0,"Millet, Mr. Francis Davis",male,65yrs,0,0,13509,£26.11s,E38,S
+457,458,1.0,1.0,"Kenyon, Mrs. Frederick R (Marion)",female,,1,0,17464,£51.17s,D21,S
+458,459,1.0,2.0,"Toomey, Miss. Ellen",female,50yrs,0,0,F.C.C. 13531,£10.10s,,S
+459,460,0.0,3.0,"O'Connor, Mr. Maurice",male,,0,0,371060,£7.15s,,Q
+460,461,1.0,,"Anderson, Mr. Harry",male,48yrs,0,0,19952,£26.11s,E12,S
+461,462,0.0,3.0,"Morley, Mr. William",male,34yrs,0,0,364506,£8.1s,,S
+462,463,0.0,1.0,"Gee, Mr. Arthur H",male,47yrs,0,0,111320,£38.10s,E63,S
+463,464,0.0,2.0,"Milling, Mr. Jacob Christian",male,48yrs,0,0,234360,£13.0s,,S
+464,465,0.0,3.0,"Maisner, Mr. Simon",male,,0,0,A/S 2816,£8.1s,,S
+465,466,0.0,3.0,"Goncalves, Mr. Manuel Estanslas",male,38yrs,0,0,SOTON/O.Q. 3101306,£7.0s,,S
+466,467,0.0,2.0,"Campbell, Mr. William",male,,0,0,239853,£0.0s,,S
+467,468,0.0,,"Smart, Mr. John Montgomery",male,56yrs,0,0,113792,£26.11s,,S
+468,469,0.0,3.0,"Scanlan, Mr. James",male,,0,0,36209,£7.14s,,Q
+469,470,1.0,3.0,"Baclini, Miss. Helene Barbara",female,0yrs,2,1,2666,£19.5s,,C
+470,471,0.0,3.0,"Keefe, Mr. Arthur",male,,0,0,323592,£7.5s,,S
+471,472,0.0,,"Cacic, Mr. Luka",male,38yrs,0,0,315089,£8.13s,,S
+472,473,1.0,2.0,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33yrs,1,2,C.A. 34651,£27.15s,,S
+473,474,1.0,2.0,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23yrs,0,0,SC/AH Basle 541,£13.15s,D,C
+474,475,0.0,3.0,"Strandberg, Miss. Ida Sofia",female,22yrs,0,0,7553,£9.16s,,S
+475,476,0.0,1.0,"Clifford, Mr. George Quincy",male,,0,0,110465,£52.0s,A14,S
+476,477,0.0,2.0,"Renouf, Mr. Peter Henry",male,34yrs,1,0,31027,£21.0s,,S
+477,478,0.0,,"Braund, Mr. Lewis Richard",male,29yrs,1,0,3460,£7.0s,,S
+478,479,0.0,3.0,"Karlsson, Mr. Nils August",male,22yrs,0,0,350060,£7.10s,,S
+479,480,1.0,3.0,"Hirvonen, Miss. Hildur E",female,2yrs,0,1,3101298,£12.5s,,S
+480,481,0.0,3.0,"Goodwin, Master. Harold Victor",male,9yrs,5,2,CA 2144,£46.17s,,S
+481,482,0.0,2.0,"Frost, Mr. Anthony Wood ""Archie""",male,,0,0,239854,£0.0s,,S
+482,483,0.0,3.0,"Rouse, Mr. Richard Henry",male,50yrs,0,0,A/5 3594,£8.1s,,S
+483,484,1.0,3.0,"Turkula, Mrs. (Hedwig)",female,63yrs,0,0,4134,£9.11s,,S
+484,485,1.0,1.0,"Bishop, Mr. Dickinson H",male,25yrs,1,0,11967,£91.1s,B49,C
+485,486,0.0,3.0,"Lefebre, Miss. Jeannie",female,,3,1,4133,£25.9s,,S
+486,487,1.0,1.0,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35yrs,1,0,19943,£90.0s,C93,S
+487,488,0.0,1.0,"Kent, Mr. Edward Austin",male,58yrs,0,0,11771,£29.13s,B37,C
+488,489,0.0,3.0,"Somerton, Mr. Francis William",male,30yrs,0,0,A.5. 18509,£8.1s,,S
+489,490,1.0,3.0,"Coutts, Master. Eden Leslie ""Neville""",male,9yrs,1,1,C.A. 37671,£15.18s,,S
+490,491,0.0,3.0,"Hagland, Mr. Konrad Mathias Reiersen",male,,1,0,65304,£19.19s,,S
+491,492,0.0,3.0,"Windelov, Mr. Einar",male,21yrs,0,0,SOTON/OQ 3101317,£7.5s,,S
+492,493,0.0,1.0,"Molson, Mr. Harry Markland",male,55yrs,0,0,113787,£30.10s,C30,S
+493,494,0.0,1.0,"Artagaveytia, Mr. Ramon",male,71yrs,0,0,PC 17609,£49.10s,,C
+494,495,0.0,3.0,"Stanley, Mr. Edward Roland",male,21yrs,0,0,A/4 45380,£8.1s,,S
+495,496,0.0,3.0,"Yousseff, Mr. Gerious",male,,0,0,2627,£14.9s,,C
+496,497,1.0,1.0,"Eustis, Miss. Elizabeth Mussey",female,54yrs,1,0,36947,£78.5s,D20,C
+497,498,0.0,3.0,"Shellard, Mr. Frederick William",male,,0,0,C.A. 6212,£15.1s,,S
+498,499,0.0,1.0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25yrs,1,2,113781,£151.11s,C22 C26,S
+499,500,0.0,3.0,"Svensson, Mr. Olof",male,24yrs,0,0,350035,£7.15s,,S
+500,501,0.0,3.0,"Calic, Mr. Petar",male,17yrs,0,0,315086,£8.13s,,S
+501,502,0.0,,"Canavan, Miss. Mary",female,21yrs,0,0,364846,£7.15s,,Q
+502,503,0.0,3.0,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,£7.12s,,Q
+503,504,0.0,3.0,"Laitinen, Miss. Kristina Sofia",female,37yrs,0,0,4135,£9.11s,,S
+504,505,1.0,1.0,"Maioni, Miss. Roberta",female,16yrs,0,0,110152,£86.10s,B79,S
+505,506,0.0,1.0,"Penasco y Castellana, Mr. Victor de Satode",male,18yrs,1,0,PC 17758,£108.18s,C65,C
+506,507,1.0,2.0,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33yrs,0,2,26360,£26.0s,,S
+507,508,1.0,1.0,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0,0,111427,£26.11s,,S
+508,509,0.0,3.0,"Olsen, Mr. Henry Margido",male,28yrs,0,0,C 4001,£22.10s,,S
+509,510,1.0,3.0,"Lang, Mr. Fang",male,26yrs,0,0,1601,£56.9s,,S
+510,511,1.0,3.0,"Daly, Mr. Eugene Patrick",male,29yrs,0,0,382651,£7.15s,,Q
+511,512,0.0,3.0,"Webber, Mr. James",male,,0,0,SOTON/OQ 3101316,£8.1s,,S
+512,513,1.0,1.0,"McGough, Mr. James Robert",male,36yrs,0,0,PC 17473,£26.5s,E25,S
+513,514,1.0,1.0,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54yrs,1,0,PC 17603,£59.7s,,C
+514,515,0.0,3.0,"Coleff, Mr. Satio",male,24yrs,0,0,349209,£7.9s,,S
+515,516,0.0,1.0,"Walker, Mr. William Anderson",male,47yrs,0,0,36967,£34.0s,D46,S
+516,517,1.0,2.0,"Lemore, Mrs. (Amelia Milley)",female,34yrs,0,0,C.A. 34260,£10.10s,F33,S
+517,518,0.0,3.0,"Ryan, Mr. Patrick",male,,0,0,371110,£24.2s,,Q
+518,519,1.0,2.0,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36yrs,1,0,226875,£26.0s,,S
+519,520,0.0,3.0,"Pavlovic, Mr. Stefo",male,32yrs,0,0,349242,£7.17s,,S
+520,521,1.0,1.0,"Perreault, Miss. Anne",female,30yrs,0,0,12749,£93.10s,B73,S
+521,522,0.0,3.0,"Vovk, Mr. Janko",male,22yrs,0,0,349252,£7.17s,,S
+522,523,0.0,3.0,"Lahoud, Mr. Sarkis",male,,0,0,2624,£7.4s,,C
+523,524,1.0,1.0,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44yrs,0,1,111361,£57.19s,B18,C
+524,525,0.0,3.0,"Kassem, Mr. Fared",male,,0,0,2700,£7.4s,,C
+525,526,0.0,3.0,"Farrell, Mr. James",male,40yrs,0,0,367232,£7.15s,,Q
+526,527,1.0,2.0,"Ridsdale, Miss. Lucy",female,50yrs,0,0,W./C. 14258,£10.10s,,S
+527,528,0.0,1.0,"Farthing, Mr. John",male,,0,0,PC 17483,£221.15s,C95,S
+528,529,0.0,3.0,"Salonen, Mr. Johan Werner",male,39yrs,0,0,3101296,£7.18s,,S
+529,530,0.0,2.0,"Hocking, Mr. Richard George",male,23yrs,2,1,29104,£11.10s,,S
+530,531,1.0,,"Quick, Miss. Phyllis May",female,2yrs,1,1,26360,£26.0s,,S
+531,532,0.0,3.0,"Toufik, Mr. Nakli",male,,0,0,2641,£7.4s,,C
+532,533,0.0,3.0,"Elias, Mr. Joseph Jr",male,17yrs,1,1,2690,£7.4s,,C
+533,534,1.0,3.0,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0,2,2668,£22.7s,,C
+534,535,0.0,3.0,"Cacic, Miss. Marija",female,30yrs,0,0,315084,£8.13s,,S
+535,536,1.0,2.0,"Hart, Miss. Eva Miriam",female,7yrs,0,2,F.C.C. 13529,£26.5s,,S
+536,537,0.0,1.0,"Butt, Major. Archibald Willingham",male,45yrs,0,0,113050,£26.11s,B38,S
+537,538,1.0,1.0,"LeRoy, Miss. Bertha",female,30yrs,0,0,PC 17761,£106.8s,,C
+538,539,0.0,,"Risien, Mr. Samuel Beard",male,,0,0,364498,£14.10s,,S
+539,540,1.0,1.0,"Frolicher, Miss. Hedwig Margaritha",female,22yrs,0,2,13568,£49.10s,B39,C
+540,541,1.0,1.0,"Crosby, Miss. Harriet R",female,36yrs,0,2,WE/P 5735,£71.0s,B22,S
+541,542,0.0,3.0,"Andersson, Miss. Ingeborg Constanzia",female,9yrs,4,2,347082,£31.5s,,S
+542,543,0.0,3.0,"Andersson, Miss. Sigrid Elisabeth",female,11yrs,4,2,347082,£31.5s,,S
+543,544,1.0,2.0,"Beane, Mr. Edward",male,32yrs,1,0,2908,£26.0s,,S
+544,545,0.0,1.0,"Douglas, Mr. Walter Donald",male,50yrs,1,0,PC 17761,£106.8s,C86,C
+545,546,0.0,,"Nicholson, Mr. Arthur Ernest",male,64yrs,0,0,693,£26.0s,,S
+546,547,1.0,2.0,"Beane, Mrs. Edward (Ethel Clarke)",female,19yrs,1,0,2908,£26.0s,,S
+547,548,1.0,2.0,"Padro y Manent, Mr. Julian",male,,0,0,SC/PARIS 2146,£13.17s,,C
+548,549,0.0,3.0,"Goldsmith, Mr. Frank John",male,33yrs,1,1,363291,£20.10s,,S
+549,550,1.0,2.0,"Davies, Master. John Morgan Jr",male,8yrs,1,1,C.A. 33112,£36.15s,,S
+550,551,1.0,1.0,"Thayer, Mr. John Borland Jr",male,17yrs,0,2,17421,£110.17s,C70,C
+551,552,0.0,2.0,"Sharp, Mr. Percival James R",male,27yrs,0,0,244358,£26.0s,,S
+552,553,0.0,3.0,"O'Brien, Mr. Timothy",male,,0,0,330979,£7.16s,,Q
+553,554,1.0,3.0,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22yrs,0,0,2620,£7.4s,,C
+554,555,1.0,3.0,"Ohman, Miss. Velin",female,22yrs,0,0,347085,£7.15s,,S
+555,556,0.0,1.0,"Wright, Mr. George",male,62yrs,0,0,113807,£26.11s,,S
+556,557,1.0,1.0,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48yrs,1,0,11755,£39.12s,A16,C
+557,558,0.0,1.0,"Robbins, Mr. Victor",male,,0,0,PC 17757,£227.10s,,C
+558,559,1.0,1.0,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39yrs,1,1,110413,£79.13s,E67,S
+559,560,1.0,3.0,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36yrs,1,0,345572,£17.7s,,S
+560,561,0.0,3.0,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,£7.15s,,Q
+561,562,0.0,3.0,"Sivic, Mr. Husein",male,40yrs,0,0,349251,£7.17s,,S
+562,563,0.0,,"Norman, Mr. Robert Douglas",male,28yrs,0,0,218629,£13.10s,,S
+563,564,0.0,3.0,"Simmons, Mr. John",male,,0,0,SOTON/OQ 392082,£8.1s,,S
+564,565,0.0,3.0,"Meanwell, Miss. (Marion Ogden)",female,,0,0,SOTON/O.Q. 392087,£8.1s,,S
+565,566,0.0,3.0,"Davies, Mr. Alfred J",male,24yrs,2,0,A/4 48871,£24.2s,,S
+566,567,0.0,3.0,"Stoytcheff, Mr. Ilia",male,19yrs,0,0,349205,£7.17s,,S
+567,568,0.0,3.0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29yrs,0,4,349909,£21.1s,,S
+568,569,0.0,3.0,"Doharr, Mr. Tannous",male,,0,0,2686,£7.4s,,C
+569,570,1.0,3.0,"Jonsson, Mr. Carl",male,32yrs,0,0,350417,£7.17s,,S
+570,571,1.0,2.0,"Harris, Mr. George",male,62yrs,0,0,S.W./PP 752,£10.10s,,S
+571,572,1.0,1.0,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53yrs,2,0,11769,£51.9s,C101,S
+572,573,1.0,1.0,"Flynn, Mr. John Irwin (""Irving"")",male,36yrs,0,0,PC 17474,£26.7s,E25,S
+573,574,1.0,3.0,"Kelly, Miss. Mary",female,,0,0,14312,£7.15s,,Q
+574,575,0.0,3.0,"Rush, Mr. Alfred George John",male,16yrs,0,0,A/4. 20589,£8.1s,,S
+575,576,0.0,3.0,"Patchett, Mr. George",male,19yrs,0,0,358585,£14.10s,,S
+576,577,1.0,2.0,"Garside, Miss. Ethel",female,34yrs,0,0,243880,£13.0s,,S
+577,578,1.0,1.0,"Silvey, Mrs. William Baird (Alice Munger)",female,39yrs,1,0,13507,£55.17s,E44,S
+578,579,0.0,3.0,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,£14.9s,,C
+579,580,1.0,3.0,"Jussila, Mr. Eiriik",male,32yrs,0,0,STON/O 2. 3101286,£7.18s,,S
+580,581,1.0,2.0,"Christy, Miss. Julie Rachel",female,25yrs,1,1,237789,£30.0s,,S
+581,582,1.0,1.0,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39yrs,1,1,17421,£110.17s,C68,C
+582,583,0.0,2.0,"Downton, Mr. William James",male,54yrs,0,0,28403,£26.0s,,S
+583,584,0.0,1.0,"Ross, Mr. John Hugo",male,36yrs,0,0,13049,£40.2s,A10,C
+584,585,0.0,3.0,"Paulner, Mr. Uscher",male,,0,0,3411,£8.14s,,C
+585,586,1.0,1.0,"Taussig, Miss. Ruth",female,18yrs,0,2,110413,£79.13s,E68,S
+586,587,0.0,2.0,"Jarvis, Mr. John Denzil",male,47yrs,0,0,237565,£15.0s,,S
+587,588,1.0,1.0,"Frolicher-Stehli, Mr. Maxmillian",male,60yrs,1,1,13567,£79.4s,B41,C
+588,589,0.0,3.0,"Gilinski, Mr. Eliezer",male,22yrs,0,0,14973,£8.1s,,S
+589,590,,3.0,"Murdlin, Mr. Joseph",male,,0,0,A./5. 3235,£8.1s,,S
+590,591,0.0,3.0,"Rintamaki, Mr. Matti",male,35yrs,0,0,STON/O 2. 3101273,£7.2s,,S
+591,592,1.0,1.0,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52yrs,1,0,36947,£78.5s,D20,C
+592,593,0.0,3.0,"Elsbury, Mr. William James",male,47yrs,0,0,A/5 3902,£7.5s,,S
+593,594,0.0,3.0,"Bourke, Miss. Mary",female,,0,2,364848,£7.15s,,Q
+594,595,0.0,2.0,"Chapman, Mr. John Henry",male,37yrs,1,0,SC/AH 29037,£26.0s,,S
+595,596,0.0,3.0,"Van Impe, Mr. Jean Baptiste",male,36yrs,1,1,345773,£24.2s,,S
+596,597,1.0,2.0,"Leitch, Miss. Jessie Wills",female,,0,0,248727,£33.0s,,S
+597,598,0.0,3.0,"Johnson, Mr. Alfred",male,49yrs,0,0,LINE,£0.0s,,S
+598,599,0.0,3.0,"Boulos, Mr. Hanna",male,,0,0,2664,£7.4s,,C
+599,600,1.0,,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49yrs,1,0,PC 17485,£56.18s,A20,C
+600,601,1.0,2.0,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24yrs,2,1,243847,£27.0s,,S
+601,602,0.0,3.0,"Slabenoff, Mr. Petco",male,,0,0,349214,£7.17s,,S
+602,603,0.0,1.0,"Harrington, Mr. Charles H",male,,0,0,113796,£42.7s,,S
+603,604,0.0,3.0,"Torber, Mr. Ernst William",male,44yrs,0,0,364511,£8.1s,,S
+604,605,1.0,1.0,"Homer, Mr. Harry (""Mr E Haven"")",male,35yrs,0,0,111426,£26.11s,,C
+605,606,0.0,3.0,"Lindell, Mr. Edvard Bengtsson",male,36yrs,1,0,349910,£15.11s,,S
+606,607,0.0,,"Karaic, Mr. Milan",male,30yrs,0,0,349246,£7.17s,,S
+607,608,1.0,1.0,"Daniel, Mr. Robert Williams",male,27yrs,0,0,113804,£30.10s,,S
+608,609,1.0,2.0,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22yrs,1,2,SC/Paris 2123,£41.11s,,C
+609,610,1.0,1.0,"Shutes, Miss. Elizabeth W",female,40yrs,0,0,PC 17582,£153.9s,C125,S
+610,611,0.0,3.0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39yrs,1,5,347082,£31.5s,,S
+611,612,0.0,3.0,"Jardin, Mr. Jose Neto",male,,0,0,SOTON/O.Q. 3101305,£7.0s,,S
+612,613,1.0,3.0,"Murphy, Miss. Margaret Jane",female,,1,0,367230,£15.10s,,Q
+613,614,0.0,3.0,"Horgan, Mr. John",male,,0,0,370377,£7.15s,,Q
+614,615,0.0,,"Brocklebank, Mr. William Alfred",male,35yrs,0,0,364512,£8.1s,,S
+615,616,1.0,2.0,"Herman, Miss. Alice",female,24yrs,1,2,220845,£65.0s,,S
+616,617,0.0,3.0,"Danbom, Mr. Ernst Gilbert",male,34yrs,1,1,347080,£14.8s,,S
+617,618,0.0,3.0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26yrs,1,0,A/5. 3336,£16.2s,,S
+618,619,1.0,2.0,"Becker, Miss. Marion Louise",female,4yrs,2,1,230136,£39.0s,F4,S
+619,620,0.0,2.0,"Gavey, Mr. Lawrence",male,26yrs,0,0,31028,£10.10s,,S
+620,621,0.0,3.0,"Yasbeck, Mr. Antoni",male,27yrs,1,0,2659,£14.9s,,C
+621,622,1.0,1.0,"Kimball, Mr. Edwin Nelson Jr",male,42yrs,1,0,11753,£52.11s,D19,S
+622,623,1.0,3.0,"Nakid, Mr. Sahid",male,20yrs,1,1,2653,£15.14s,,C
+623,624,0.0,3.0,"Hansen, Mr. Henry Damsgaard",male,21yrs,0,0,350029,£7.17s,,S
+624,625,0.0,3.0,"Bowen, Mr. David John ""Dai""",male,21yrs,0,0,54636,£16.2s,,S
+625,626,0.0,1.0,"Sutton, Mr. Frederick",male,61yrs,0,0,36963,£32.6s,D50,S
+626,627,0.0,2.0,"Kirkland, Rev. Charles Leonard",male,57yrs,0,0,219533,£12.6s,,Q
+627,628,1.0,1.0,"Longley, Miss. Gretchen Fiske",female,21yrs,0,0,13502,£77.19s,D9,S
+628,629,0.0,,"Bostandyeff, Mr. Guentcho",male,26yrs,0,0,349224,£7.17s,,S
+629,630,0.0,3.0,"O'Connell, Mr. Patrick D",male,,0,0,334912,£7.14s,,Q
+630,631,1.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",male,80yrs,0,0,27042,£30.0s,A23,S
+631,632,0.0,3.0,"Lundahl, Mr. Johan Svensson",male,51yrs,0,0,347743,£7.1s,,S
+632,633,1.0,1.0,"Stahelin-Maeglin, Dr. Max",male,32yrs,0,0,13214,£30.10s,B50,C
+633,634,0.0,1.0,"Parr, Mr. William Henry Marsh",male,,0,0,112052,£0.0s,,S
+634,635,0.0,3.0,"Skoog, Miss. Mabel",female,9yrs,3,2,347088,£27.17s,,S
+635,636,1.0,2.0,"Davis, Miss. Mary",female,28yrs,0,0,237668,£13.0s,,S
+636,637,0.0,3.0,"Leinonen, Mr. Antti Gustaf",male,32yrs,0,0,STON/O 2. 3101292,£7.18s,,S
+637,638,0.0,2.0,"Collyer, Mr. Harvey",male,31yrs,1,1,C.A. 31921,£26.5s,,S
+638,639,0.0,3.0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41yrs,0,5,3101295,£39.13s,,S
+639,640,0.0,3.0,"Thorneycroft, Mr. Percival",male,,1,0,376564,£16.2s,,S
+640,641,0.0,3.0,"Jensen, Mr. Hans Peder",male,20yrs,0,0,350050,£7.17s,,S
+641,642,1.0,1.0,"Sagesser, Mlle. Emma",female,24yrs,0,0,PC 17477,£69.5s,B35,C
+642,643,0.0,3.0,"Skoog, Miss. Margit Elizabeth",female,2yrs,3,2,347088,£27.17s,,S
+643,644,1.0,3.0,"Foo, Mr. Choong",male,,0,0,1601,£56.9s,,S
+644,645,1.0,3.0,"Baclini, Miss. Eugenie",female,0yrs,2,1,2666,£19.5s,,C
+645,646,1.0,1.0,"Harper, Mr. Henry Sleeper",male,48yrs,1,0,PC 17572,£76.14s,D33,C
+646,647,0.0,3.0,"Cor, Mr. Liudevit",male,19yrs,0,0,349231,£7.17s,,S
+647,648,1.0,1.0,"Simonius-Blumer, Col. Oberst Alfons",male,56yrs,0,0,13213,£35.10s,A26,C
+648,649,0.0,3.0,"Willey, Mr. Edward",male,,0,0,S.O./P.P. 751,£7.10s,,S
+649,650,1.0,3.0,"Stanley, Miss. Amy Zillah Elsie",female,23yrs,0,0,CA. 2314,£7.10s,,S
+650,651,,3.0,"Mitkoff, Mr. Mito",male,,0,0,349221,£7.17s,,S
+651,652,1.0,2.0,"Doling, Miss. Elsie",female,18yrs,0,1,231919,£23.0s,,S
+652,653,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",male,21yrs,0,0,8475,£8.8s,,S
+653,654,1.0,3.0,"O'Leary, Miss. Hanora ""Norah""",female,,0,0,330919,£7.16s,,Q
+654,655,0.0,3.0,"Hegarty, Miss. Hanora ""Nora""",female,18yrs,0,0,365226,£6.15s,,Q
+655,656,0.0,,"Hickman, Mr. Leonard Mark",male,24yrs,2,0,S.O.C. 14879,£73.10s,,S
+656,657,0.0,3.0,"Radeff, Mr. Alexander",male,,0,0,349223,£7.17s,,S
+657,658,0.0,3.0,"Bourke, Mrs. John (Catherine)",female,32yrs,1,1,364849,£15.10s,,Q
+658,659,0.0,2.0,"Eitemiller, Mr. George Floyd",male,23yrs,0,0,29751,£13.0s,,S
+659,660,0.0,1.0,"Newell, Mr. Arthur Webster",male,58yrs,0,2,35273,£113.5s,D48,C
+660,661,1.0,1.0,"Frauenthal, Dr. Henry William",male,50yrs,2,0,PC 17611,£133.13s,,S
+661,662,0.0,3.0,"Badt, Mr. Mohamed",male,40yrs,0,0,2623,£7.4s,,C
+662,663,0.0,1.0,"Colley, Mr. Edward Pomeroy",male,47yrs,0,0,5727,£25.11s,E58,S
+663,664,0.0,3.0,"Coleff, Mr. Peju",male,36yrs,0,0,349210,£7.9s,,S
+664,665,1.0,3.0,"Lindqvist, Mr. Eino William",male,20yrs,1,0,STON/O 2. 3101285,£7.18s,,S
+665,666,0.0,2.0,"Hickman, Mr. Lewis",male,32yrs,2,0,S.O.C. 14879,£73.10s,,S
+666,667,0.0,2.0,"Butler, Mr. Reginald Fenton",male,25yrs,0,0,234686,£13.0s,,S
+667,668,0.0,3.0,"Rommetvedt, Mr. Knud Paust",male,,0,0,312993,£7.15s,,S
+668,669,0.0,3.0,"Cook, Mr. Jacob",male,43yrs,0,0,A/5 3536,£8.1s,,S
+669,670,1.0,1.0,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,0,19996,£52.0s,C126,S
+670,671,1.0,2.0,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40yrs,1,1,29750,£39.0s,,S
+671,672,0.0,1.0,"Davidson, Mr. Thornton",male,31yrs,1,0,F.C. 12750,£52.0s,B71,S
+672,673,0.0,2.0,"Mitchell, Mr. Henry Michael",male,70yrs,0,0,C.A. 24580,£10.10s,,S
+673,674,1.0,2.0,"Wilhelms, Mr. Charles",male,31yrs,0,0,244270,£13.0s,,S
+674,675,0.0,2.0,"Watson, Mr. Ennis Hastings",male,,0,0,239856,£0.0s,,S
+675,676,0.0,3.0,"Edvardsson, Mr. Gustaf Hjalmar",male,18yrs,0,0,349912,£7.15s,,S
+676,677,,3.0,"Sawyer, Mr. Frederick Charles",male,24yrs,0,0,342826,£8.1s,,S
+677,678,1.0,3.0,"Turja, Miss. Anna Sofia",female,18yrs,0,0,4138,£9.16s,,S
+678,679,0.0,3.0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43yrs,1,6,CA 2144,£46.17s,,S
+679,680,1.0,1.0,"Cardeza, Mr. Thomas Drake Martinez",male,36yrs,0,1,PC 17755,£512.6s,B51 B53 B55,C
+680,681,0.0,3.0,"Peters, Miss. Katie",female,,0,0,330935,£8.2s,,Q
+681,682,1.0,1.0,"Hassab, Mr. Hammad",male,27yrs,0,0,PC 17572,£76.14s,D49,C
+682,683,0.0,3.0,"Olsvigen, Mr. Thor Anderson",male,20yrs,0,0,6563,£9.4s,,S
+683,684,0.0,3.0,"Goodwin, Mr. Charles Edward",male,14yrs,5,2,CA 2144,£46.17s,,S
+684,685,0.0,2.0,"Brown, Mr. Thomas William Solomon",male,60yrs,1,1,29750,£39.0s,,S
+685,686,0.0,2.0,"Laroche, Mr. Joseph Philippe Lemercier",male,25yrs,1,2,SC/Paris 2123,£41.11s,,C
+686,687,0.0,3.0,"Panula, Mr. Jaako Arnold",male,14yrs,4,1,3101295,£39.13s,,S
+687,688,0.0,,"Dakic, Mr. Branko",male,19yrs,0,0,349228,£10.3s,,S
+688,689,0.0,3.0,"Fischer, Mr. Eberhard Thelander",male,18yrs,0,0,350036,£7.15s,,S
+689,690,1.0,1.0,"Madill, Miss. Georgette Alexandra",female,15yrs,0,1,24160,£211.6s,B5,S
+690,691,1.0,1.0,"Dick, Mr. Albert Adrian",male,31yrs,1,0,17474,£57.0s,B20,S
+691,692,1.0,3.0,"Karun, Miss. Manca",female,4yrs,0,1,349256,£13.8s,,C
+692,693,1.0,3.0,"Lam, Mr. Ali",male,,0,0,1601,£56.9s,,S
+693,694,0.0,3.0,"Saad, Mr. Khalil",male,25yrs,0,0,2672,£7.4s,,C
+694,695,0.0,1.0,"Weir, Col. John",male,60yrs,0,0,113800,£26.11s,,S
+695,696,0.0,2.0,"Chapman, Mr. Charles Henry",male,52yrs,0,0,248731,£13.10s,,S
+696,697,0.0,3.0,"Kelly, Mr. James",male,44yrs,0,0,363592,£8.1s,,S
+697,698,1.0,3.0,"Mullens, Miss. Katherine ""Katie""",female,,0,0,35852,£7.14s,,Q
+698,699,0.0,1.0,"Thayer, Mr. John Borland",male,49yrs,1,1,17421,£110.17s,C68,C
+699,700,0.0,3.0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42yrs,0,0,348121,£7.13s,F G63,S
+700,701,1.0,1.0,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18yrs,1,0,PC 17757,£227.10s,C62 C64,C
+701,702,1.0,1.0,"Silverthorne, Mr. Spencer Victor",male,35yrs,0,0,PC 17475,£26.5s,E24,S
+702,703,0.0,3.0,"Barbara, Miss. Saiide",female,18yrs,0,1,2691,£14.9s,,C
+703,704,0.0,3.0,"Gallagher, Mr. Martin",male,25yrs,0,0,36864,£7.14s,,Q
+704,705,0.0,3.0,"Hansen, Mr. Henrik Juul",male,26yrs,1,0,350025,£7.17s,,S
+705,706,0.0,2.0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39yrs,0,0,250655,£26.0s,,S
+706,707,1.0,2.0,"Kelly, Mrs. Florence ""Fannie""",female,45yrs,0,0,223596,£13.10s,,S
+707,708,1.0,1.0,"Calderhead, Mr. Edward Pennington",male,42yrs,0,0,PC 17476,£26.5s,E24,S
+708,709,1.0,1.0,"Cleaver, Miss. Alice",female,22yrs,0,0,113781,£151.11s,,S
+709,710,1.0,3.0,"Moubarek, Master. Halim Gonios (""William George"")",male,,1,1,2661,£15.4s,,C
+710,711,1.0,1.0,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24yrs,0,0,PC 17482,£49.10s,C90,C
+711,712,,1.0,"Klaber, Mr. Herman",male,,0,0,113028,£26.11s,C124,S
+712,713,1.0,1.0,"Taylor, Mr. Elmer Zebley",male,48yrs,1,0,19996,£52.0s,C126,S
+713,714,0.0,,"Larsson, Mr. August Viktor",male,29yrs,0,0,7545,£9.9s,,S
+714,715,0.0,2.0,"Greenberg, Mr. Samuel",male,52yrs,0,0,250647,£13.0s,,S
+715,716,0.0,3.0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19yrs,0,0,348124,£7.13s,F G73,S
+716,717,1.0,1.0,"Endres, Miss. Caroline Louise",female,38yrs,0,0,PC 17757,£227.10s,C45,C
+717,718,1.0,2.0,"Troutt, Miss. Edwina Celia ""Winnie""",female,27yrs,0,0,34218,£10.10s,E101,S
+718,719,0.0,3.0,"McEvoy, Mr. Michael",male,,0,0,36568,£15.10s,,Q
+719,720,0.0,,"Johnson, Mr. Malkolm Joackim",male,33yrs,0,0,347062,£7.15s,,S
+720,721,1.0,2.0,"Harper, Miss. Annie Jessie ""Nina""",female,6yrs,0,1,248727,£33.0s,,S
+721,722,0.0,3.0,"Jensen, Mr. Svend Lauritz",male,17yrs,1,0,350048,£7.1s,,S
+722,723,,2.0,"Gillespie, Mr. William Henry",male,34yrs,0,0,12233,£13.0s,,S
+723,724,0.0,,"Hodges, Mr. Henry Price",male,50yrs,0,0,250643,£13.0s,,S
+724,725,1.0,1.0,"Chambers, Mr. Norman Campbell",male,27yrs,1,0,113806,£53.2s,E8,S
+725,726,0.0,3.0,"Oreskovic, Mr. Luka",male,20yrs,0,0,315094,£8.13s,,S
+726,727,1.0,2.0,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30yrs,3,0,31027,£21.0s,,S
+727,728,1.0,3.0,"Mannion, Miss. Margareth",female,,0,0,36866,£7.14s,,Q
+728,729,0.0,2.0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25yrs,1,0,236853,£26.0s,,S
+729,730,,3.0,"Ilmakangas, Miss. Pieta Sofia",female,25yrs,1,0,STON/O2. 3101271,£7.18s,,S
+730,731,1.0,1.0,"Allen, Miss. Elisabeth Walton",female,29yrs,0,0,24160,£211.6s,B5,S
+731,732,0.0,3.0,"Hassan, Mr. Houssein G N",male,11yrs,0,0,2699,£18.15s,,C
+732,733,0.0,2.0,"Knight, Mr. Robert J",male,,0,0,239855,£0.0s,,S
+733,734,0.0,2.0,"Berriman, Mr. William John",male,23yrs,0,0,28425,£13.0s,,S
+734,735,0.0,2.0,"Troupiansky, Mr. Moses Aaron",male,23yrs,0,0,233639,£13.0s,,S
+735,736,0.0,,"Williams, Mr. Leslie",male,28yrs,0,0,54636,£16.2s,,S
+736,737,0.0,3.0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48yrs,1,3,W./C. 6608,£34.7s,,S
+737,738,1.0,1.0,"Lesurer, Mr. Gustave J",male,35yrs,0,0,PC 17755,£512.6s,B101,C
+738,739,0.0,3.0,"Ivanoff, Mr. Kanio",male,,0,0,349201,£7.17s,,S
+739,740,0.0,3.0,"Nankoff, Mr. Minko",male,,0,0,349218,£7.17s,,S
+740,741,1.0,1.0,"Hawksford, Mr. Walter James",male,,0,0,16988,£30.0s,D45,S
+741,742,0.0,1.0,"Cavendish, Mr. Tyrell William",male,36yrs,1,0,19877,£78.16s,C46,S
+742,743,1.0,1.0,"Ryerson, Miss. Susan Parker ""Suzette""",female,21yrs,2,2,PC 17608,£262.7s,B57 B59 B63 B66,C
+743,744,0.0,3.0,"McNamee, Mr. Neal",male,24yrs,1,0,376566,£16.2s,,S
+744,745,1.0,3.0,"Stranden, Mr. Juho",male,31yrs,0,0,STON/O 2. 3101288,£7.18s,,S
+745,746,0.0,1.0,"Crosby, Capt. Edward Gifford",male,70yrs,1,1,WE/P 5735,£71.0s,B22,S
+746,747,0.0,3.0,"Abbott, Mr. Rossmore Edward",male,16yrs,1,1,C.A. 2673,£20.5s,,S
+747,748,,2.0,"Sinkkonen, Miss. Anna",female,30yrs,0,0,250648,£13.0s,,S
+748,749,0.0,1.0,"Marvin, Mr. Daniel Warner",male,19yrs,1,0,113773,£53.2s,D30,S
+749,750,0.0,3.0,"Connaghton, Mr. Michael",male,31yrs,0,0,335097,£7.15s,,Q
+750,751,1.0,2.0,"Wells, Miss. Joan",female,4yrs,1,1,29103,£23.0s,,S
+751,752,1.0,3.0,"Moor, Master. Meier",male,6yrs,0,1,392096,£12.9s,E121,S
+752,753,0.0,3.0,"Vande Velde, Mr. Johannes Joseph",male,33yrs,0,0,345780,£9.10s,,S
+753,754,0.0,3.0,"Jonkoff, Mr. Lalio",male,23yrs,0,0,349204,£7.17s,,S
+754,755,1.0,2.0,"Herman, Mrs. Samuel (Jane Laver)",female,48yrs,1,2,220845,£65.0s,,S
+755,756,1.0,2.0,"Hamalainen, Master. Viljo",male,0yrs,1,1,250649,£14.10s,,S
+756,757,0.0,3.0,"Carlsson, Mr. August Sigfrid",male,28yrs,0,0,350042,£7.15s,,S
+757,758,0.0,2.0,"Bailey, Mr. Percy Andrew",male,18yrs,0,0,29108,£11.10s,,S
+758,759,0.0,3.0,"Theobald, Mr. Thomas Leonard",male,34yrs,0,0,363294,£8.1s,,S
+759,760,1.0,1.0,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33yrs,0,0,110152,£86.10s,B77,S
+760,761,0.0,3.0,"Garfirth, Mr. John",male,,0,0,358585,£14.10s,,S
+761,762,0.0,3.0,"Nirva, Mr. Iisakki Antino Aijo",male,41yrs,0,0,SOTON/O2 3101272,£7.2s,,S
+762,763,1.0,3.0,"Barah, Mr. Hanna Assi",male,20yrs,0,0,2663,£7.4s,,C
+763,764,1.0,1.0,"Carter, Mrs. William Ernest (Lucile Polk)",female,36yrs,1,2,113760,£120.0s,B96 B98,S
+764,765,0.0,3.0,"Eklund, Mr. Hans Linus",male,16yrs,0,0,347074,£7.15s,,S
+765,766,1.0,1.0,"Hogeboom, Mrs. John C (Anna Andrews)",female,51yrs,1,0,13502,£77.19s,D11,S
+766,767,0.0,1.0,"Brewe, Dr. Arthur Jackson",male,,0,0,112379,£39.12s,,C
+767,768,0.0,3.0,"Mangan, Miss. Mary",female,30yrs,0,0,364850,£7.15s,,Q
+768,769,0.0,3.0,"Moran, Mr. Daniel J",male,,1,0,371110,£24.2s,,Q
+769,770,0.0,3.0,"Gronnestad, Mr. Daniel Danielsen",male,32yrs,0,0,8471,£8.7s,,S
+770,771,0.0,3.0,"Lievens, Mr. Rene Aime",male,24yrs,0,0,345781,£9.10s,,S
+771,772,0.0,3.0,"Jensen, Mr. Niels Peder",male,48yrs,0,0,350047,£7.17s,,S
+772,773,0.0,2.0,"Mack, Mrs. (Mary)",female,57yrs,0,0,S.O./P.P. 3,£10.10s,E77,S
+773,774,0.0,3.0,"Elias, Mr. Dibo",male,,0,0,2674,£7.4s,,C
+774,775,1.0,2.0,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54yrs,1,3,29105,£23.0s,,S
+775,776,0.0,3.0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18yrs,0,0,347078,£7.15s,,S
+776,777,0.0,3.0,"Tobin, Mr. Roger",male,,0,0,383121,£7.15s,F38,Q
+777,778,1.0,3.0,"Emanuel, Miss. Virginia Ethel",female,5yrs,0,0,364516,£12.9s,,S
+778,779,0.0,3.0,"Kilgannon, Mr. Thomas J",male,,0,0,36865,£7.14s,,Q
+779,780,1.0,1.0,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43yrs,0,1,24160,£211.6s,B3,S
+780,781,1.0,3.0,"Ayoub, Miss. Banoura",female,13yrs,0,0,2687,£7.4s,,C
+781,782,1.0,1.0,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17yrs,1,0,17474,£57.0s,B20,S
+782,783,0.0,1.0,"Long, Mr. Milton Clyde",male,29yrs,0,0,113501,£30.0s,D6,S
+783,784,0.0,3.0,"Johnston, Mr. Andrew G",male,,1,2,W./C. 6607,£23.8s,,S
+784,785,0.0,3.0,"Ali, Mr. William",male,25yrs,0,0,SOTON/O.Q. 3101312,£7.0s,,S
+785,786,0.0,3.0,"Harmer, Mr. Abraham (David Lishin)",male,25yrs,0,0,374887,£7.5s,,S
+786,787,1.0,3.0,"Sjoblom, Miss. Anna Sofia",female,18yrs,0,0,3101265,£7.9s,,S
+787,788,0.0,3.0,"Rice, Master. George Hugh",male,8yrs,4,1,382652,£29.2s,,Q
+788,789,1.0,3.0,"Dean, Master. Bertram Vere",male,1yrs,1,2,C.A. 2315,£20.11s,,S
+789,790,0.0,1.0,"Guggenheim, Mr. Benjamin",male,46yrs,0,0,PC 17593,£79.4s,B82 B84,C
+790,791,0.0,3.0,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,£7.15s,,Q
+791,792,0.0,2.0,"Gaskell, Mr. Alfred",male,16yrs,0,0,239865,£26.0s,,S
+792,793,0.0,3.0,"Sage, Miss. Stella Anna",female,,8,2,CA. 2343,£69.10s,,S
+793,794,0.0,1.0,"Hoyt, Mr. William Fisher",male,,0,0,PC 17600,£30.13s,,C
+794,795,0.0,3.0,"Dantcheff, Mr. Ristiu",male,25yrs,0,0,349203,£7.17s,,S
+795,796,0.0,2.0,"Otter, Mr. Richard",male,39yrs,0,0,28213,£13.0s,,S
+796,797,1.0,1.0,"Leader, Dr. Alice (Farnham)",female,49yrs,0,0,17465,£25.18s,D17,S
+797,798,1.0,3.0,"Osman, Mrs. Mara",female,31yrs,0,0,349244,£8.13s,,S
+798,799,0.0,3.0,"Ibrahim Shawah, Mr. Yousseff",male,30yrs,0,0,2685,£7.4s,,C
+799,800,0.0,3.0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30yrs,1,1,345773,£24.2s,,S
+800,801,0.0,2.0,"Ponesell, Mr. Martin",male,34yrs,0,0,250647,£13.0s,,S
+801,802,1.0,,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31yrs,1,1,C.A. 31921,£26.5s,,S
+802,803,1.0,1.0,"Carter, Master. William Thornton II",male,11yrs,1,2,113760,£120.0s,B96 B98,S
+803,804,,3.0,"Thomas, Master. Assad Alexander",male,0yrs,0,1,2625,£8.10s,,C
+804,805,1.0,3.0,"Hedman, Mr. Oskar Arvid",male,27yrs,0,0,347089,£6.19s,,S
+805,806,0.0,3.0,"Johansson, Mr. Karl Johan",male,31yrs,0,0,347063,£7.15s,,S
+806,807,0.0,1.0,"Andrews, Mr. Thomas Jr",male,39yrs,0,0,112050,£0.0s,A36,S
+807,808,0.0,3.0,"Pettersson, Miss. Ellen Natalia",female,18yrs,0,0,347087,£7.15s,,S
+808,809,0.0,2.0,"Meyer, Mr. August",male,39yrs,0,0,248723,£13.0s,,S
+809,810,1.0,1.0,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33yrs,1,0,113806,£53.2s,E8,S
+810,811,0.0,,"Alexander, Mr. William",male,26yrs,0,0,3474,£7.17s,,S
+811,812,0.0,3.0,"Lester, Mr. James",male,39yrs,0,0,A/4 48871,£24.2s,,S
+812,813,0.0,2.0,"Slemen, Mr. Richard James",male,35yrs,0,0,28206,£10.10s,,S
+813,814,0.0,3.0,"Andersson, Miss. Ebba Iris Alfrida",female,6yrs,4,2,347082,£31.5s,,S
+814,815,0.0,3.0,"Tomlin, Mr. Ernest Portage",male,30yrs,0,0,364499,£8.1s,,S
+815,816,0.0,1.0,"Fry, Mr. Richard",male,,0,0,112058,£0.0s,B102,S
+816,817,0.0,3.0,"Heininen, Miss. Wendla Maria",female,23yrs,0,0,STON/O2. 3101290,£7.18s,,S
+817,818,0.0,2.0,"Mallet, Mr. Albert",male,31yrs,1,1,S.C./PARIS 2079,£37.0s,,C
+818,819,0.0,3.0,"Holm, Mr. John Fredrik Alexander",male,43yrs,0,0,C 7075,£6.9s,,S
+819,820,0.0,3.0,"Skoog, Master. Karl Thorsten",male,10yrs,3,2,347088,£27.17s,,S
+820,821,1.0,1.0,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52yrs,1,1,12749,£93.10s,B69,S
+821,822,1.0,3.0,"Lulic, Mr. Nikola",male,27yrs,0,0,315098,£8.13s,,S
+822,823,0.0,1.0,"Reuchlin, Jonkheer. John George",male,38yrs,0,0,19972,£0.0s,,S
+823,824,1.0,3.0,"Moor, Mrs. (Beila)",female,27yrs,0,1,392096,£12.9s,E121,S
+824,825,0.0,3.0,"Panula, Master. Urho Abraham",male,2yrs,4,1,3101295,£39.13s,,S
+825,826,0.0,3.0,"Flynn, Mr. John",male,,0,0,368323,£6.19s,,Q
+826,827,0.0,3.0,"Lam, Mr. Len",male,,0,0,1601,£56.9s,,S
+827,828,1.0,2.0,"Mallet, Master. Andre",male,1yrs,0,2,S.C./PARIS 2079,£37.0s,,C
+828,829,1.0,3.0,"McCormack, Mr. Thomas Joseph",male,,0,0,367228,£7.15s,,Q
+829,830,1.0,1.0,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62yrs,0,0,113572,£80.0s,B28,
+830,831,1.0,3.0,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15yrs,1,0,2659,£14.9s,,C
+831,832,1.0,2.0,"Richards, Master. George Sibley",male,0yrs,1,1,29106,£18.15s,,S
+832,833,0.0,3.0,"Saad, Mr. Amin",male,,0,0,2671,£7.4s,,C
+833,834,0.0,3.0,"Augustsson, Mr. Albert",male,23yrs,0,0,347468,£7.17s,,S
+834,835,0.0,3.0,"Allum, Mr. Owen George",male,18yrs,0,0,2223,£8.6s,,S
+835,836,1.0,,"Compton, Miss. Sara Rebecca",female,39yrs,1,1,PC 17756,£83.3s,E49,C
+836,837,0.0,3.0,"Pasic, Mr. Jakob",male,21yrs,0,0,315097,£8.13s,,S
+837,838,0.0,3.0,"Sirota, Mr. Maurice",male,,0,0,392092,£8.1s,,S
+838,839,1.0,,"Chip, Mr. Chang",male,32yrs,0,0,1601,£56.9s,,S
+839,840,1.0,1.0,"Marechal, Mr. Pierre",male,,0,0,11774,£29.13s,C47,C
+840,841,0.0,3.0,"Alhomaki, Mr. Ilmari Rudolf",male,20yrs,0,0,SOTON/O2 3101287,£7.18s,,S
+841,842,0.0,2.0,"Mudd, Mr. Thomas Charles",male,16yrs,0,0,S.O./P.P. 3,£10.10s,,S
+842,843,1.0,1.0,"Serepeca, Miss. Augusta",female,30yrs,0,0,113798,£31.0s,,C
+843,844,0.0,3.0,"Lemberopolous, Mr. Peter L",male,34yrs,0,0,2683,£6.8s,,C
+844,845,0.0,3.0,"Culumovic, Mr. Jeso",male,17yrs,0,0,315090,£8.13s,,S
+845,846,0.0,3.0,"Abbing, Mr. Anthony",male,42yrs,0,0,C.A. 5547,£7.10s,,S
+846,847,0.0,3.0,"Sage, Mr. Douglas Bullen",male,,8,2,CA. 2343,£69.10s,,S
+847,848,0.0,3.0,"Markoff, Mr. Marin",male,35yrs,0,0,349213,£7.17s,,C
+848,849,0.0,2.0,"Harper, Rev. John",male,28yrs,0,1,248727,£33.0s,,S
+849,850,1.0,1.0,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,0,17453,£89.2s,C92,C
+850,851,0.0,3.0,"Andersson, Master. Sigvard Harald Elias",male,4yrs,4,2,347082,£31.5s,,S
+851,852,0.0,3.0,"Svensson, Mr. Johan",male,74yrs,0,0,347060,£7.15s,,S
+852,853,0.0,3.0,"Boulos, Miss. Nourelain",female,9yrs,1,1,2678,£15.4s,,C
+853,854,1.0,,"Lines, Miss. Mary Conover",female,16yrs,0,1,PC 17592,£39.7s,D28,S
+854,855,0.0,2.0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44yrs,1,0,244252,£26.0s,,S
+855,856,1.0,3.0,"Aks, Mrs. Sam (Leah Rosen)",female,18yrs,0,1,392091,£9.6s,,S
+856,857,1.0,1.0,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45yrs,1,1,36928,£164.17s,,S
+857,858,1.0,1.0,"Daly, Mr. Peter Denis ",male,51yrs,0,0,113055,£26.11s,E17,S
+858,859,1.0,,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24yrs,0,3,2666,£19.5s,,C
+859,860,0.0,3.0,"Razi, Mr. Raihed",male,,0,0,2629,£7.4s,,C
+860,861,0.0,3.0,"Hansen, Mr. Claus Peter",male,41yrs,2,0,350026,£14.2s,,S
+861,862,0.0,2.0,"Giles, Mr. Frederick Edward",male,21yrs,1,0,28134,£11.10s,,S
+862,863,1.0,1.0,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48yrs,0,0,17466,£25.18s,D17,S
+863,864,0.0,3.0,"Sage, Miss. Dorothy Edith ""Dolly""",female,,8,2,CA. 2343,£69.10s,,S
+864,865,0.0,2.0,"Gill, Mr. John William",male,24yrs,0,0,233866,£13.0s,,S
+865,866,1.0,2.0,"Bystrom, Mrs. (Karolina)",female,42yrs,0,0,236852,£13.0s,,S
+866,867,1.0,2.0,"Duran y More, Miss. Asuncion",female,27yrs,1,0,SC/PARIS 2149,£13.17s,,C
+867,868,0.0,1.0,"Roebling, Mr. Washington Augustus II",male,31yrs,0,0,PC 17590,£50.9s,A24,S
+868,869,0.0,3.0,"van Melkebeke, Mr. Philemon",male,,0,0,345777,£9.10s,,S
+869,870,1.0,3.0,"Johnson, Master. Harold Theodor",male,4yrs,1,1,347742,£11.2s,,S
+870,871,0.0,3.0,"Balkic, Mr. Cerin",male,26yrs,0,0,349248,£7.17s,,S
+871,872,1.0,1.0,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47yrs,1,1,11751,£52.11s,D35,S
+872,873,0.0,1.0,"Carlsson, Mr. Frans Olof",male,33yrs,0,0,695,£5.0s,B51 B53 B55,S
+873,874,0.0,3.0,"Vander Cruyssen, Mr. Victor",male,47yrs,0,0,345765,£9.0s,,S
+874,875,1.0,2.0,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28yrs,1,0,P/PP 3381,£24.0s,,C
+875,876,,3.0,"Najib, Miss. Adele Kiamie ""Jane""",female,15yrs,0,0,2667,£7.4s,,C
+876,877,,3.0,"Gustafsson, Mr. Alfred Ossian",male,20yrs,0,0,7534,£9.16s,,S
+877,878,,3.0,"Petroff, Mr. Nedelio",male,19yrs,0,0,349212,£7.17s,,S
+878,879,0.0,,"Laleff, Mr. Kristo",male,,0,0,349217,£7.17s,,S
+879,880,1.0,1.0,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56yrs,0,1,11767,£83.3s,C50,C
+880,881,1.0,2.0,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25yrs,0,1,230433,£26.0s,,S
+881,882,0.0,,"Markun, Mr. Johann",male,33yrs,0,0,349257,£7.17s,,S
+882,883,0.0,3.0,"Dahlberg, Miss. Gerda Ulrika",female,22yrs,0,0,7552,£10.10s,,S
+883,884,0.0,2.0,"Banfield, Mr. Frederick James",male,28yrs,0,0,C.A./SOTON 34068,£10.10s,,S
+884,885,0.0,3.0,"Sutehall, Mr. Henry Jr",male,25yrs,0,0,SOTON/OQ 392076,£7.0s,,S
+885,886,0.0,3.0,"Rice, Mrs. William (Margaret Norton)",female,39yrs,0,5,382652,£29.2s,,Q
+886,887,0.0,2.0,"Montvila, Rev. Juozas",male,27yrs,0,0,211536,£13.0s,,S
+887,888,1.0,1.0,"Graham, Miss. Margaret Edith",female,19yrs,0,0,112053,£30.0s,B42,S
+888,889,0.0,3.0,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,£23.8s,,S
+889,890,1.0,1.0,"Behr, Mr. Karl Howell",male,26yrs,0,0,111369,£30.0s,C148,C
+890,891,0.0,3.0,"Dooley, Mr. Patrick",male,32yrs,0,0,370376,£7.15s,,Q
