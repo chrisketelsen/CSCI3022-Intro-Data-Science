@@ -102,7 +102,7 @@ The collaboration policy is simple:
 
 * **Inspiration is free**: you may discuss homework assignments with anyone. You are especially encouraged to discuss solutions with your instructor and your classmates.
 
-* **Plagiarism is forbidden**: the assignments **and code** that you turn in should be written entirely on your own. While writing the assignment you are not allowed to consult any source other than textbooks, your own class notes or the posted lecture slides. Copying/consulting from the solution of another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in an **F** in the course and a trip to the honor council.
+* **Plagiarism is forbidden**: the assignments **and code** that you turn in should be written entirely on your own. While writing the assignment you are not allowed to consult any source other than textbooks, your own class notes, and the posted lecture slides or notebooks.  Of course, you're encouraged to use the Python/Numpy/Pandas documentation as much as possible. Copying/consulting a solution from the internet or another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in an **F** in the course and a trip to the honor council.
 
 * **Do not search for a solution on-line**: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc. 
 
