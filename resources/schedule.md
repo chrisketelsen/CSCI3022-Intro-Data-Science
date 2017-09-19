@@ -14,7 +14,7 @@
 |       | 09.06        | 15.1-15.2, 16.4      |          |EDA, Data Visualization and Cleaning |[CK](https://goo.gl/RCJ9fh)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec3_larremore.pdf) || 
 |3      | 09.11        | 2                    |          |Introduction to Probability   	   | [CK](https://goo.gl/oySGY7)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec4_larremore.pdf)		    |			| 
 |       | 09.13        | 2, 3                 |          |Axioms and Theorems of Probability   | [CK](https://goo.gl/sjP8Hd)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec5_larremore.pdf)			    |			| 
-|4      | 09.18        | 3                    |          |Bayes' Rule and Intro to PDFs		   | [CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson06.pdf)/DL      |	[hmwk2](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk02)	| 
+|4      | 09.18        | 3                    |          |Bayes' Rule and Intro to PDFs		   | [CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson06.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec6_larremore.pdf)      |	[hmwk2](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk02)	| 
 |       | 09.20        | 4                    |          |Discrete RVs, PMFs, CMFs             |			    |			| 
 |5      | 09.25        | 4, 5                 |          |Discrete RVs, Continuous RVs		   |			    |			| 
 |       | 09.27        | 5                    |          |Continuous RVs, PDFs, CDFs           |			    |			| 
