@@ -18,7 +18,7 @@
 |       | 09.20        | 4                    |          |Discrete RVs, PMFs, CMFs             | [CK](https://goo.gl/37g8Fc)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec7_larremore.pdf)		    |			| 
 |5      | 09.25        | 4, 5                 |          |More Discrete RVs		   |	[CK](https://goo.gl/X35qPi)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec8_larremore.pdf)		    |			| 
 |       | 09.27        | 5                    |          |Continuous RVs, PDFs, CDFs           |[CK](https://goo.gl/oR3dcs)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec9_larremore.pdf)			    |			| 
-|6      | 10.02        | 7                    |          |Expectation                          |			    |	hmwk3	| 
+|6      | 10.02        | 7                    |          |Expectation                          |			    |	[hmwk3](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk03)	| 
 |       | 10.04        | 7                    |          |Variance                             |				| 			|
 |7      | 10.09        | 5.5                  |          |The Normal Distribution              |			    |			| 
 |       | 10.11        | 14                   |          |The Central Limit Theorem            |			    |			| 
