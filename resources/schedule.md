@@ -19,8 +19,8 @@
 |5      | 09.25        | 4, 5                 |          |More Discrete RVs		   |	[CK](https://goo.gl/X35qPi)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec8_larremore.pdf)		    |			| 
 |       | 09.27        | 5                    |          |Continuous RVs, PDFs, CDFs           |[CK](https://goo.gl/oR3dcs)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec9_larremore.pdf)			    |			| 
 |6      | 10.02        | 7                    |          |Expectation                          |[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson10.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec10_larremore.pdf)			    |	[hmwk3](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk03)	| 
-|       | 10.04        | 7                    |          |Variance                             |				| 			|
-|7      | 10.09        | 5.5                  |          |The Normal Distribution              |			    |			| 
+|       | 10.04        | 7                    |          |Variance                             | [CK](https://goo.gl/M7GA3T)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec11_larremore.pdf) | 			|
+|7      | 10.09        | 5.5                  |          |The Normal Distribution              |[CK](https://goo.gl/eymTUV)/DL			    |			| 
 |       | 10.11        | 14                   |          |The Central Limit Theorem            |			    |			| 
 |8      | 10.16        | 6                    |          |Monte Carlo Simulation               |			    |	hmwk4	| 
 |       | 10.18        |                      |          |**MIDTERM EXAM**                     |			    |			| 
