@@ -18,11 +18,11 @@
 |       | 09.20        | 4                    |          |Discrete RVs, PMFs, CMFs             | [CK](https://goo.gl/37g8Fc)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec7_larremore.pdf)		    |			| 
 |5      | 09.25        | 4, 5                 |          |More Discrete RVs		   |	[CK](https://goo.gl/X35qPi)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec8_larremore.pdf)		    |			| 
 |       | 09.27        | 5                    |          |Continuous RVs, PDFs, CDFs           |[CK](https://goo.gl/oR3dcs)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec9_larremore.pdf)			    |			| 
-|6      | 10.02        | 7                    |          |Expectation                          |[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson10.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec10_larremore.pdf)			    |	[hmwk3](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk03)	| 
+|6      | 10.02        | 7                    | [Python BootCamp](https://github.com/dblarremore/csci3022/tree/master/pythonbootcamp)         |Expectation                          |[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson10.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec10_larremore.pdf)			    |	[hmwk3](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk03)	| 
 |       | 10.04        | 7                    |          |Variance                             | [CK](https://goo.gl/M7GA3T)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec11_larremore.pdf) | 			|
-|7      | 10.09        | 5.5                  |          |The Normal Distribution              |[CK](https://goo.gl/eymTUV)/DL			    |			| 
+|7      | 10.09        | 5.5                  |          |The Normal Distribution              |[CK](https://goo.gl/eymTUV)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec12_larremore.pdf)			    |			| 
 |       | 10.11        | 14                   |          |The Central Limit Theorem            |			    |			| 
-|8      | 10.16        | 6                    |          |Monte Carlo Simulation               |			    |	hmwk4	| 
+|8      | 10.16        | 6                    |          |**MIDTERM EXAM REVIEW**               |			    |	hmwk4	| 
 |       | 10.18        |                      |          |**MIDTERM EXAM**                     |			    |			| 
 |9      | 10.23        |                      |          |Intro to Bayesian Simulation         |			    |			| 
 |       | 10.25        |                      |          |Inference and CI Intro, The Bootstrap| 		        |			| 
