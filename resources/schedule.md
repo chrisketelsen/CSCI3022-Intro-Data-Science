@@ -22,7 +22,7 @@
 |       | 10.04        | 7                    |          |Variance                             | [CK](https://goo.gl/M7GA3T)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec11_larremore.pdf) | 			|
 |7      | 10.09        | 5.5                  |          |The Normal Distribution              |[CK](https://goo.gl/eymTUV)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec12_larremore.pdf)			    |			| 
 |       | 10.11        | 14                   |          |The Central Limit Theorem            |[CK](https://goo.gl/t67d25)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec13_larremore.pdf)			    |			| 
-|8      | 10.16        | 6                    |          |**MIDTERM EXAM REVIEW**               |			    |	[hmwk4](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk04)	| 
+|8      | 10.16        | 6                    |          |**MIDTERM EXAM REVIEW**               |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/3022-Review-Scratch.pdf)		    |	[hmwk4](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk04)	| 
 |       | 10.18        |                      |          |**MIDTERM EXAM**                     |			    |			| 
 |9      | 10.23        |                      |          |Intro to Bayesian Simulation         |			    |			| 
 |       | 10.25        |                      |          |Inference and CI Intro, The Bootstrap| 		        |			| 
