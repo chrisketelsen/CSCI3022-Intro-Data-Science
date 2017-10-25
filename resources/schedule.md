@@ -25,7 +25,7 @@
 |8      | 10.16        | 6                    |          |**MIDTERM EXAM REVIEW**               |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/3022-Review-Scratch.pdf)		    |	[hmwk4](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk04)	| 
 |       | 10.18        |                      |          |**MIDTERM EXAM**                     |			    |			| 
 |9      | 10.23        |                      |          |Inference and CI Intro         |[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson14.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec14_larremore.pdf)			    |			| 
-|       | 10.25        |                      |          |Inference and CI Intro, The Bootstrap| 		        |			| 
+|       | 10.25        |                      |          |Two-Sample CIs| 		        |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson15.pdf)/DL		| 
 |10     | 10.30        |                      |          |CIs for Population Mean              |			    |	hmwk5	| 
 |       | 11.01        |                      |          |HT Intro, Error Types, Power         |			    |			| 
 |11     | 11.06        |                      |          |Critical Values and Rejection Regions|			    |			| 
