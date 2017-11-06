@@ -27,9 +27,9 @@
 |9      | 10.23        |  23,24                    |          |Inference and CI Intro        | [CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson14.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec14_larremore.pdf)			    			| 
 |       | 10.25        |  23,24                    |          |Two-Sample CIs| 		        [CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson15.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec15_larremore.pdf)	|	| 
 |10     | 10.30        |  18, 23.3 |          |The Bootstrap              |	[CK](https://goo.gl/1Kf1xk)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec16_larremore.pdf)		    |	[hmwk5](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk05)	| 
-|       | 11.01| 25,26|          |Hypothesis Testing Intro |	[CK](https://goo.gl/D6jZcd)/DL|			| 
-|11     | 11.06        | 25, 26                     |          |p-Values|			    |			| 
-|       | 11.08        | 25, 26                     |          |P-Values and CIs             |			    |			| 
+|       | 11.01| 25,26|          |Hypothesis Testing Intro |	[CK](https://goo.gl/D6jZcd)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec17_larremore.pdf)|			| 
+|11     | 11.06        | 25, 26                     |          |p-Values|	[CK](https://goo.gl/THAj7N)/DL		    |			| 
+|       | 11.08        | 27                     |          |Small-Sample HT             |			    |			| 
 |12     | 11.13        |                      |          |Ordinary Least Squares Regression    |			    |	hmwk6	| 
 |       | 11.15        |                      |          |CIs for Regression Params            |			    |			| 
 |13     | 11.20        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
