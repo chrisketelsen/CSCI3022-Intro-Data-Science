@@ -30,7 +30,7 @@
 |       | 11.01| 25,26|          |Hypothesis Testing Intro |	[CK](https://goo.gl/D6jZcd)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec17_larremore.pdf)|			| 
 |11     | 11.06        | 25, 26                     |          |p-Values|	[CK](https://goo.gl/THAj7N)/DL		    |			| 
 |       | 11.08        | 27                     |          |Small-Sample HT             |	[CK](https://goo.gl/xohzsm)/DL		    |			| 
-|12     | 11.13        |                      |          |Ordinary Least Squares Regression    |			    |	hmwk6	| 
+|12     | 11.13        |                      |          |Ordinary Least Squares Regression    |[CK](https://goo.gl/ZroGr4)/DL			    |	hmwk6	| 
 |       | 11.15        |                      |          |CIs for Regression Params            |			    |			| 
 |13     | 11.20        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
 |       | 11.22        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
