@@ -30,7 +30,7 @@
 |       | 11.01| 25,26|          |Hypothesis Testing Intro |	[CK](https://goo.gl/D6jZcd)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec17_larremore.pdf)|			| 
 |11     | 11.06        | 25, 26                     |          |p-Values|	[CK](https://goo.gl/THAj7N)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec18_larremore.pdf)		    |			| 
 |       | 11.08        | 27                     |          |Small-Sample HT             |	[CK](https://goo.gl/xohzsm)		    |			| 
-|12     | 11.13        | 22                   |          |Ordinary Least Squares Regression    |[CK](https://goo.gl/ZroGr4)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec20_larremore.pdf)			    |	[hmwk6](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk06)	| 
+|12     | 11.13        | 22                   |          |OLS/SLR Regression    |[CK](https://goo.gl/ZroGr4)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec20_larremore.pdf)			    |	[hmwk6](https://github.com/chrisketelsen/csci3022/tree/master/hmwk/hmwk06)	| 
 |       | 11.15        | 27.3                     |          |Inference in SLR           |	[CK](https://goo.gl/UZ9nbY)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec21_larremore.pdf)		   |			| 
 |13     | 11.20        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
 |       | 11.22        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
