@@ -34,10 +34,10 @@
 |       | 11.15        |                      |          |CIs for Regression Params            |	[CK](https://goo.gl/UZ9nbY)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec21_larremore.pdf)		   |			| 
 |13     | 11.20        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
 |       | 11.22        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
-|14     | 11.27        |                      |          |Multiple Linear Regression           |			    |			| 
-|       | 11.29        |                      |          |ANOVA    							   |			    |			| 
-|15     | 12.04        |                      |          |Logistic Regr. and Classification    |			    | Practicum	| 
-|       | 12.06        |                      |          |Sol. Techniques for OLS + LogReg     |			    |			| 
-|16     | 12.11        |                      |          |A\B Testing					       |			    |			| 
+|14     | 11.27        |                      |          |Multiple Linear Regression           |[CK](https://goo.gl/R96avQ)/DL			    |			| 
+|       | 11.29        |                      |          |Inference in MLR    							   |			    |			| 
+|15     | 12.04        |                      |          |ANOVA                                |			    | Practicum	| 
+|       | 12.06        |                      |          |Logistic Regr. and Classification     |			    |			| 
+|16     | 12.11        |                      |          |Sol. Techniques for OLS + LogReg     |			    |			| 
 |       | 12.13        |                      |          |**FINAL EXAM REVIEW**                |			    |			| 
 |17     | 12.XX        |                      |          |**FINAL EXAM**                       |			    |			| 
