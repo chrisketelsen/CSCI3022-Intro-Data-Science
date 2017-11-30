@@ -34,8 +34,8 @@
 |       | 11.15 | 27.3  |          |Inference in SLR|	[CK](https://goo.gl/UZ9nbY)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec21_larremore.pdf)		   |			| 
 |13     | 11.20        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
 |       | 11.22        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
-|14     | 11.27        |[ISL Ch3](https://goo.gl/RhWZ4W) |          |Multiple Linear Regression           |[CK](https://goo.gl/R96avQ)/DL			    |			| 
-|       | 11.29        |[ISL Ch3](https://goo.gl/RhWZ4W) |          |Inference in MLR    							   |			    |			| 
+|14     | 11.27        |[ISL Ch3](https://goo.gl/RhWZ4W) |          |Multiple Linear Regression           |[CK](https://goo.gl/R96avQ)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec22_larremore.pdf)			    |			| 
+|       | 11.29        |[ISL Ch3](https://goo.gl/RhWZ4W) |          |Inference in MLR    	| [CK][DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec23_larremore.pdf)						   			    |			| 
 |15     | 12.04        |                      |          |ANOVA                                |			    | Practicum	| 
 |       | 12.06        |                      |          |Logistic Regr. and Classification     |			    |			| 
 |16     | 12.11        |                      |          |Sol. Techniques for OLS + LogReg     |			    |			| 
