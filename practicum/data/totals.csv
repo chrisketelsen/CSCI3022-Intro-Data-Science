@@ -1,0 +1,61 @@
+"idx","field","gend_cat","N"
+"1","biochemistry","male",4669
+"2","communications","male",3195
+"3","philosophy","male",2399
+"4","engineering","male",47690
+"5","psychology","male",7206
+"6","physics","male",24623
+"7","astronomy","male",3135
+"8","education","male",5880
+"9","chemistry","male",17521
+"10","mathematics","male",11906
+"11","molecular biology","male",1509
+"12","economics","male",7263
+"13","neuroscience","male",1738
+"14","computer science","male",12475
+"15","history","male",3078
+"16","sociology","male",1756
+"17","political science","male",2559
+"18","statistics","male",2871
+"19","earth sciences","male",1592
+"20","linguistics","male",876
+"21","anthropology","male",1464
+"22","music","male",1312
+"23","evolutionary biology","male",278
+"24","archaeology","male",743
+"25","english literature","male",1065
+"26","engineering","female",10528
+"27","computer science","female",2585
+"28","mathematics","female",3416
+"29","chemistry","female",6085
+"30","education","female",6133
+"31","neuroscience","female",1174
+"32","psychology","female",8185
+"33","classics","male",475
+"34","spanish literature","male",54
+"35","middle eastern studies","male",95
+"36","art history","male",250
+"37","comparative literature","male",314
+"38","communications","female",2010
+"39","biochemistry","female",2179
+"40","political science","female",1117
+"41","anthropology","female",1269
+"42","statistics","female",1261
+"43","economics","female",3382
+"44","physics","female",5164
+"45","astronomy","female",784
+"46","linguistics","female",842
+"47","philosophy","female",1149
+"48","molecular biology","female",846
+"49","archaeology","female",619
+"50","music","female",695
+"51","art history","female",315
+"52","history","female",2030
+"53","classics","female",309
+"54","earth sciences","female",669
+"55","sociology","female",1639
+"56","english literature","female",997
+"57","comparative literature","female",175
+"58","spanish literature","female",53
+"59","evolutionary biology","female",226
+"60","middle eastern studies","female",51

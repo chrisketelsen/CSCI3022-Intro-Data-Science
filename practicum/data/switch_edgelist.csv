@@ -1,0 +1,1293 @@
+"idx","from","to","gend_cat","N"
+"1","history","communications","male",25
+"2","engineering","communications","male",244
+"3","biochemistry","engineering","male",128
+"4","chemistry","mathematics","male",69
+"5","communications","education","female",90
+"6","education","communications","female",62
+"7","philosophy","neuroscience","male",13
+"8","philosophy","chemistry","male",3
+"9","computer science","sociology","female",4
+"10","computer science","psychology","female",22
+"11","chemistry","engineering","male",763
+"12","communications","sociology","female",22
+"13","chemistry","computer science","male",67
+"14","computer science","chemistry","male",40
+"15","sociology","political science","female",40
+"16","chemistry","biochemistry","male",641
+"17","physics","engineering","female",250
+"18","spanish literature","education","female",8
+"19","english literature","education","female",82
+"20","comparative literature","education","female",6
+"21","classics","education","female",13
+"22","engineering","physics","male",734
+"23","physics","neuroscience","male",78
+"24","mathematics","economics","male",141
+"25","art history","history","female",27
+"26","statistics","neuroscience","male",7
+"27","communications","engineering","male",229
+"28","history","classics","female",11
+"29","biochemistry","molecular biology","male",140
+"30","molecular biology","neuroscience","male",26
+"31","engineering","computer science","female",164
+"32","chemistry","physics","male",453
+"33","engineering","neuroscience","male",77
+"34","physics","engineering","male",1218
+"35","physics","mathematics","male",419
+"36","engineering","neuroscience","female",23
+"37","economics","history","female",17
+"38","linguistics","communications","female",26
+"39","archaeology","sociology","female",4
+"40","archaeology","philosophy","female",6
+"41","history","sociology","female",28
+"42","history","philosophy","female",18
+"43","computer science","communications","male",161
+"44","communications","computer science","male",134
+"45","mathematics","engineering","male",494
+"46","education","engineering","female",60
+"47","biochemistry","chemistry","male",475
+"48","statistics","economics","female",34
+"49","engineering","computer science","male",1133
+"50","computer science","engineering","male",948
+"51","english literature","engineering","male",3
+"52","psychology","statistics","male",41
+"53","sociology","anthropology","male",19
+"54","anthropology","education","male",30
+"55","anthropology","psychology","male",20
+"56","history","archaeology","female",35
+"57","archaeology","history","female",24
+"58","communications","education","male",69
+"59","biochemistry","neuroscience","male",61
+"60","music","history","male",10
+"61","engineering","political science","female",12
+"62","engineering","classics","female",8
+"63","engineering","music","female",10
+"64","engineering","comparative literature","female",8
+"65","psychology","neuroscience","male",198
+"66","chemistry","earth sciences","male",36
+"67","chemistry","physics","female",150
+"68","engineering","education","female",84
+"69","engineering","communications","female",53
+"70","communications","engineering","female",41
+"71","psychology","education","male",186
+"72","education","neuroscience","male",13
+"73","earth sciences","computer science","male",4
+"74","physics","computer science","male",315
+"75","astronomy","mathematics","male",35
+"76","education","psychology","male",105
+"77","economics","engineering","female",46
+"78","communications","mathematics","male",35
+"79","physics","chemistry","female",116
+"80","engineering","physics","female",153
+"81","history","education","male",95
+"82","astronomy","engineering","male",79
+"83","astronomy","computer science","male",46
+"84","neuroscience","biochemistry","female",10
+"85","neuroscience","physics","female",11
+"86","engineering","astronomy","male",61
+"87","engineering","chemistry","male",435
+"88","chemistry","molecular biology","male",118
+"89","computer science","engineering","female",156
+"90","neuroscience","psychology","female",84
+"91","mathematics","engineering","female",132
+"92","mathematics","molecular biology","female",6
+"93","computer science","mathematics","male",223
+"94","mathematics","earth sciences","female",12
+"95","engineering","chemistry","female",128
+"96","mathematics","political science","male",16
+"97","mathematics","classics","male",7
+"98","mathematics","music","male",15
+"99","mathematics","computer science","male",388
+"100","mathematics","comparative literature","male",8
+"101","political science","statistics","male",19
+"102","classics","statistics","male",2
+"103","music","statistics","male",3
+"104","computer science","statistics","male",71
+"105","comparative literature","statistics","male",1
+"106","statistics","computer science","male",46
+"107","physics","chemistry","male",459
+"108","earth sciences","engineering","female",28
+"109","education","sociology","female",37
+"110","education","psychology","female",140
+"111","physics","economics","male",40
+"112","psychology","neuroscience","female",175
+"113","physics","earth sciences","male",146
+"114","education","history","male",42
+"115","astronomy","physics","female",46
+"116","political science","economics","male",62
+"117","art history","education","male",11
+"118","earth sciences","education","male",18
+"119","political science","philosophy","male",23
+"120","biochemistry","chemistry","female",178
+"121","chemistry","biochemistry","female",210
+"122","psychology","engineering","male",56
+"123","education","engineering","male",138
+"124","chemistry","economics","male",18
+"125","psychology","education","female",239
+"126","mathematics","statistics","male",251
+"127","statistics","political science","male",12
+"128","engineering","economics","male",182
+"129","economics","engineering","male",119
+"130","sociology","education","female",76
+"131","education","chemistry","male",41
+"132","history","economics","female",22
+"133","engineering","economics","female",54
+"134","engineering","mathematics","male",425
+"135","english literature","communications","female",37
+"136","engineering","mathematics","female",77
+"137","economics","political science","female",29
+"138","political science","sociology","female",30
+"139","astronomy","chemistry","female",5
+"140","mathematics","economics","female",61
+"141","engineering","molecular biology","female",22
+"142","neuroscience","mathematics","male",8
+"143","neuroscience","statistics","male",5
+"144","statistics","economics","male",73
+"145","mathematics","physics","male",330
+"146","english literature","linguistics","female",26
+"147","political science","education","male",61
+"148","classics","education","male",11
+"149","music","education","male",46
+"150","computer science","education","male",96
+"151","comparative literature","education","male",11
+"152","biochemistry","engineering","female",56
+"153","astronomy","political science","male",4
+"154","astronomy","classics","male",4
+"155","astronomy","music","male",6
+"156","astronomy","comparative literature","male",3
+"157","physics","political science","male",17
+"158","physics","classics","male",9
+"159","physics","music","male",35
+"160","physics","comparative literature","male",8
+"161","education","communications","male",67
+"162","education","history","female",33
+"163","statistics","engineering","male",76
+"164","philosophy","education","male",72
+"165","mathematics","communications","female",12
+"166","molecular biology","neuroscience","female",25
+"167","sociology","economics","male",44
+"168","economics","sociology","male",36
+"169","evolutionary biology","mathematics","female",4
+"170","molecular biology","mathematics","female",4
+"171","computer science","physics","male",155
+"172","economics","computer science","male",39
+"173","computer science","economics","male",62
+"174","economics","communications","male",35
+"175","molecular biology","engineering","male",49
+"176","economics","sociology","female",40
+"177","earth sciences","archaeology","female",6
+"178","engineering","statistics","male",93
+"179","earth sciences","physics","male",83
+"180","biochemistry","physics","male",84
+"181","psychology","philosophy","male",35
+"182","history","anthropology","female",24
+"183","biochemistry","molecular biology","female",52
+"184","physics","molecular biology","female",25
+"185","economics","statistics","male",82
+"186","communications","history","male",17
+"187","physics","astronomy","male",236
+"188","astronomy","physics","male",147
+"189","communications","linguistics","female",9
+"190","linguistics","economics","female",18
+"191","music","psychology","female",18
+"192","communications","chemistry","male",8
+"193","mathematics","statistics","female",110
+"194","linguistics","psychology","female",29
+"195","philosophy","engineering","male",19
+"196","engineering","philosophy","male",18
+"197","molecular biology","biochemistry","male",86
+"198","engineering","statistics","female",18
+"199","engineering","linguistics","male",11
+"200","sociology","communications","female",29
+"201","political science","communications","female",14
+"202","statistics","computer science","female",15
+"203","english literature","comparative literature","male",8
+"204","linguistics","communications","male",22
+"205","biochemistry","education","male",29
+"206","physics","archaeology","male",7
+"207","archaeology","earth sciences","male",4
+"208","physics","astronomy","female",58
+"209","mathematics","psychology","male",39
+"210","statistics","psychology","male",20
+"211","chemistry","education","male",81
+"212","biochemistry","neuroscience","female",48
+"213","neuroscience","molecular biology","female",12
+"214","sociology","anthropology","female",15
+"215","mathematics","philosophy","male",24
+"216","chemistry","engineering","female",270
+"217","mathematics","education","male",105
+"218","history","art history","male",33
+"219","music","astronomy","male",4
+"220","music","physics","male",31
+"221","neuroscience","engineering","male",32
+"222","economics","astronomy","female",3
+"223","comparative literature","communications","female",7
+"224","neuroscience","engineering","female",12
+"225","archaeology","anthropology","female",33
+"226","philosophy","sociology","male",28
+"227","chemistry","astronomy","male",29
+"228","english literature","education","male",59
+"229","philosophy","statistics","female",2
+"230","english literature","communications","male",34
+"231","communications","english literature","male",12
+"232","neuroscience","physics","male",21
+"233","engineering","earth sciences","female",21
+"234","economics","communications","female",19
+"235","communications","political science","female",23
+"236","communications","history","female",13
+"237","physics","statistics","male",64
+"238","history","education","female",68
+"239","communications","computer science","female",34
+"240","psychology","communications","female",48
+"241","molecular biology","physics","male",36
+"242","physics","education","male",82
+"243","education","physics","male",44
+"244","communications","anthropology","female",12
+"245","anthropology","communications","female",8
+"246","economics","mathematics","male",65
+"247","political science","sociology","male",46
+"248","earth sciences","mathematics","male",14
+"249","chemistry","neuroscience","female",18
+"250","physics","neuroscience","female",21
+"251","biochemistry","computer science","male",27
+"252","mathematics","sociology","male",8
+"253","physics","sociology","male",4
+"254","linguistics","english literature","female",19
+"255","education","english literature","female",41
+"256","earth sciences","engineering","male",68
+"257","mathematics","biochemistry","male",25
+"258","mathematics","molecular biology","male",15
+"259","physics","communications","male",65
+"260","chemistry","computer science","female",13
+"261","computer science","chemistry","female",3
+"262","art history","history","male",26
+"263","art history","archaeology","male",6
+"264","archaeology","linguistics","male",1
+"265","history","linguistics","male",4
+"266","linguistics","art history","male",1
+"267","communications","psychology","male",25
+"268","biochemistry","physics","female",38
+"269","psychology","sociology","male",24
+"270","mathematics","chemistry","female",22
+"271","statistics","chemistry","female",5
+"272","psychology","anthropology","female",20
+"273","sociology","political science","male",34
+"274","sociology","education","male",68
+"275","education","political science","male",22
+"276","physics","philosophy","male",28
+"277","english literature","history","male",24
+"278","linguistics","education","female",47
+"279","education","chemistry","female",27
+"280","education","physics","female",15
+"281","art history","philosophy","female",4
+"282","earth sciences","philosophy","female",2
+"283","psychology","computer science","male",41
+"284","computer science","psychology","male",49
+"285","statistics","mathematics","male",97
+"286","philosophy","engineering","female",6
+"287","political science","history","male",29
+"288","chemistry","mathematics","female",25
+"289","statistics","mathematics","female",35
+"290","mathematics","chemistry","male",51
+"291","education","linguistics","female",32
+"292","psychology","linguistics","female",12
+"293","astronomy","education","male",9
+"294","education","astronomy","male",9
+"295","molecular biology","political science","male",2
+"296","engineering","education","male",180
+"297","education","computer science","male",61
+"298","mathematics","communications","male",34
+"299","history","archaeology","male",37
+"300","engineering","biochemistry","male",79
+"301","engineering","molecular biology","male",39
+"302","education","mathematics","male",50
+"303","communications","physics","male",40
+"304","history","sociology","male",28
+"305","communications","philosophy","male",20
+"306","philosophy","computer science","male",23
+"307","education","computer science","female",43
+"308","economics","education","male",89
+"309","neuroscience","linguistics","female",1
+"310","philosophy","communications","female",19
+"311","biochemistry","evolutionary biology","female",4
+"312","molecular biology","evolutionary biology","female",7
+"313","astronomy","education","female",10
+"314","physics","education","female",34
+"315","education","astronomy","female",4
+"316","mathematics","physics","female",50
+"317","computer science","physics","female",24
+"318","physics","computer science","female",44
+"319","earth sciences","chemistry","male",26
+"320","philosophy","linguistics","female",9
+"321","music","psychology","male",15
+"322","english literature","philosophy","male",10
+"323","philosophy","english literature","male",13
+"324","communications","neuroscience","female",4
+"325","economics","philosophy","female",10
+"326","philosophy","classics","female",5
+"327","classics","philosophy","female",4
+"328","classics","history","female",13
+"329","molecular biology","chemistry","male",63
+"330","philosophy","physics","male",23
+"331","physics","biochemistry","male",93
+"332","linguistics","engineering","female",12
+"333","education","evolutionary biology","female",4
+"334","education","molecular biology","female",6
+"335","physics","molecular biology","male",53
+"336","chemistry","communications","female",10
+"337","economics","music","male",5
+"338","physics","mathematics","female",42
+"339","mathematics","astronomy","male",38
+"340","neuroscience","computer science","male",11
+"341","political science","engineering","male",41
+"342","statistics","education","male",27
+"343","chemistry","earth sciences","female",14
+"344","biochemistry","statistics","female",6
+"345","engineering","earth sciences","male",79
+"346","philosophy","statistics","male",5
+"347","earth sciences","economics","female",2
+"348","economics","earth sciences","female",3
+"349","earth sciences","education","female",19
+"350","english literature","anthropology","male",3
+"351","anthropology","neuroscience","male",5
+"352","neuroscience","anthropology","male",1
+"353","sociology","economics","female",46
+"354","engineering","middle eastern studies","male",7
+"355","middle eastern studies","engineering","male",6
+"356","chemistry","neuroscience","male",43
+"357","mathematics","computer science","female",87
+"358","statistics","engineering","female",19
+"359","music","communications","male",19
+"360","education","economics","female",38
+"361","evolutionary biology","communications","male",1
+"362","molecular biology","communications","male",5
+"363","psychology","communications","male",42
+"364","earth sciences","physics","female",27
+"365","psychology","economics","female",31
+"366","engineering","history","female",8
+"367","evolutionary biology","molecular biology","male",7
+"368","computer science","philosophy","female",5
+"369","psychology","engineering","female",23
+"370","art history","linguistics","female",3
+"371","earth sciences","linguistics","female",2
+"372","psychology","anthropology","male",15
+"373","archaeology","classics","male",12
+"374","computer science","molecular biology","male",13
+"375","computer science","neuroscience","male",25
+"376","computer science","evolutionary biology","male",6
+"377","education","archaeology","female",7
+"378","computer science","earth sciences","female",3
+"379","computer science","economics","female",11
+"380","education","music","male",31
+"381","molecular biology","anthropology","male",2
+"382","molecular biology","archaeology","male",2
+"383","anthropology","evolutionary biology","male",6
+"384","archaeology","evolutionary biology","male",1
+"385","anthropology","philosophy","female",9
+"386","anthropology","history","female",19
+"387","mathematics","education","female",81
+"388","neuroscience","education","female",13
+"389","sociology","psychology","male",27
+"390","anthropology","psychology","female",16
+"391","computer science","anthropology","male",3
+"392","computer science","communications","female",29
+"393","communications","linguistics","male",12
+"394","physics","biochemistry","female",33
+"395","archaeology","anthropology","male",33
+"396","statistics","communications","male",3
+"397","political science","communications","male",34
+"398","communications","statistics","male",4
+"399","communications","political science","male",27
+"400","communications","economics","male",32
+"401","linguistics","computer science","male",21
+"402","political science","computer science","male",17
+"403","mathematics","linguistics","male",8
+"404","linguistics","philosophy","female",7
+"405","philosophy","anthropology","male",16
+"406","education","music","female",20
+"407","philosophy","music","female",5
+"408","biochemistry","statistics","male",14
+"409","statistics","education","female",32
+"410","neuroscience","psychology","male",111
+"411","mathematics","astronomy","female",7
+"412","political science","economics","female",40
+"413","communications","sociology","male",20
+"414","art history","communications","male",8
+"415","earth sciences","communications","male",6
+"416","political science","psychology","female",19
+"417","classics","psychology","female",5
+"418","comparative literature","psychology","female",3
+"419","music","engineering","male",34
+"420","biochemistry","education","female",20
+"421","education","linguistics","male",25
+"422","chemistry","archaeology","female",2
+"423","archaeology","engineering","female",6
+"424","english literature","history","female",16
+"425","economics","political science","male",59
+"426","anthropology","evolutionary biology","female",10
+"427","computer science","education","female",36
+"428","history","anthropology","male",26
+"429","anthropology","communications","male",9
+"430","mathematics","biochemistry","female",8
+"431","physics","earth sciences","female",30
+"432","education","philosophy","female",23
+"433","philosophy","education","female",47
+"434","computer science","linguistics","male",19
+"435","computer science","political science","male",12
+"436","anthropology","sociology","female",26
+"437","sociology","history","female",12
+"438","statistics","sociology","female",9
+"439","psychology","computer science","female",21
+"440","psychology","mathematics","female",5
+"441","psychology","economics","male",28
+"442","linguistics","mathematics","male",5
+"443","psychology","spanish literature","male",2
+"444","psychology","english literature","male",7
+"445","psychology","comparative literature","male",4
+"446","psychology","classics","male",5
+"447","spanish literature","psychology","male",1
+"448","english literature","psychology","male",10
+"449","comparative literature","psychology","male",3
+"450","classics","psychology","male",3
+"451","anthropology","education","female",33
+"452","economics","psychology","female",22
+"453","neuroscience","computer science","female",4
+"454","molecular biology","computer science","male",6
+"455","computer science","linguistics","female",9
+"456","linguistics","computer science","female",9
+"457","communications","classics","male",6
+"458","communications","music","male",16
+"459","communications","comparative literature","male",8
+"460","engineering","music","male",39
+"461","anthropology","sociology","male",28
+"462","anthropology","political science","male",12
+"463","physics","psychology","male",27
+"464","psychology","chemistry","male",2
+"465","psychology","physics","male",11
+"466","communications","mathematics","female",4
+"467","philosophy","political science","male",38
+"468","engineering","art history","male",2
+"469","art history","engineering","male",3
+"470","economics","philosophy","male",27
+"471","philosophy","mathematics","male",9
+"472","anthropology","political science","female",9
+"473","earth sciences","chemistry","female",14
+"474","art history","education","female",15
+"475","communications","psychology","female",24
+"476","music","education","female",33
+"477","sociology","history","male",20
+"478","communications","philosophy","female",14
+"479","chemistry","education","female",46
+"480","philosophy","economics","female",13
+"481","physics","psychology","female",15
+"482","education","english literature","male",31
+"483","linguistics","english literature","male",25
+"484","english literature","linguistics","male",21
+"485","engineering","political science","male",40
+"486","engineering","classics","male",31
+"487","engineering","comparative literature","male",27
+"488","classics","engineering","male",21
+"489","comparative literature","engineering","male",18
+"490","anthropology","earth sciences","female",5
+"491","education","philosophy","male",30
+"492","philosophy","history","male",48
+"493","philosophy","psychology","male",49
+"494","engineering","psychology","male",55
+"495","philosophy","history","female",18
+"496","psychology","sociology","female",25
+"497","engineering","astronomy","female",11
+"498","biochemistry","music","male",1
+"499","history","philosophy","male",29
+"500","psychology","music","female",7
+"501","history","art history","female",30
+"502","computer science","statistics","female",21
+"503","economics","neuroscience","female",3
+"504","neuroscience","economics","female",1
+"505","history","computer science","female",6
+"506","philosophy","linguistics","male",13
+"507","economics","education","female",55
+"508","psychology","political science","female",13
+"509","economics","computer science","female",14
+"510","economics","psychology","male",20
+"511","computer science","biochemistry","male",25
+"512","physics","middle eastern studies","female",2
+"513","middle eastern studies","engineering","female",4
+"514","physics","history","female",7
+"515","sociology","music","female",3
+"516","economics","mathematics","female",22
+"517","sociology","psychology","female",18
+"518","history","evolutionary biology","female",2
+"519","linguistics","philosophy","male",6
+"520","linguistics","psychology","male",20
+"521","music","art history","male",2
+"522","chemistry","statistics","female",6
+"523","chemistry","political science","female",5
+"524","anthropology","economics","male",8
+"525","mathematics","earth sciences","male",25
+"526","astronomy","philosophy","male",1
+"527","philosophy","communications","male",23
+"528","psychology","music","male",10
+"529","economics","statistics","female",47
+"530","mathematics","archaeology","female",2
+"531","mathematics","history","female",6
+"532","astronomy","economics","male",4
+"533","evolutionary biology","anthropology","female",4
+"534","mathematics","history","male",5
+"535","history","mathematics","female",4
+"536","spanish literature","linguistics","female",2
+"537","computer science","english literature","male",8
+"538","english literature","computer science","male",9
+"539","education","anthropology","male",11
+"540","history","evolutionary biology","male",7
+"541","political science","physics","male",17
+"542","classics","physics","male",5
+"543","comparative literature","physics","male",6
+"544","art history","philosophy","male",6
+"545","psychology","linguistics","male",15
+"546","computer science","philosophy","male",22
+"547","education","statistics","female",20
+"548","physics","communications","female",11
+"549","molecular biology","psychology","female",10
+"550","education","statistics","male",24
+"551","engineering","evolutionary biology","female",7
+"552","mathematics","psychology","female",17
+"553","classics","anthropology","female",3
+"554","archaeology","art history","male",6
+"555","archaeology","education","male",4
+"556","philosophy","anthropology","female",12
+"557","earth sciences","history","male",8
+"558","history","earth sciences","male",3
+"559","economics","earth sciences","male",8
+"560","astronomy","chemistry","male",28
+"561","economics","history","male",17
+"562","evolutionary biology","molecular biology","female",3
+"563","music","philosophy","female",6
+"564","classics","philosophy","male",10
+"565","education","sociology","male",30
+"566","middle eastern studies","sociology","female",2
+"567","astronomy","neuroscience","female",2
+"568","biochemistry","mathematics","male",14
+"569","english literature","philosophy","female",8
+"570","philosophy","english literature","female",9
+"571","physics","economics","female",15
+"572","linguistics","anthropology","male",6
+"573","linguistics","anthropology","female",3
+"574","anthropology","archaeology","female",30
+"575","statistics","neuroscience","female",5
+"576","neuroscience","sociology","female",3
+"577","communications","middle eastern studies","male",2
+"578","molecular biology","chemistry","female",26
+"579","history","political science","male",60
+"580","communications","physics","female",5
+"581","economics","middle eastern studies","male",5
+"582","middle eastern studies","economics","male",6
+"583","education","economics","male",47
+"584","history","neuroscience","male",3
+"585","anthropology","philosophy","male",8
+"586","anthropology","history","male",30
+"587","psychology","statistics","female",35
+"588","molecular biology","biochemistry","female",38
+"589","astronomy","earth sciences","male",8
+"590","history","english literature","male",20
+"591","history","music","male",6
+"592","biochemistry","philosophy","male",4
+"593","communications","classics","female",3
+"594","communications","music","female",11
+"595","communications","comparative literature","female",4
+"596","classics","sociology","female",1
+"597","music","sociology","female",2
+"598","comparative literature","sociology","female",1
+"599","sociology","communications","male",33
+"600","statistics","chemistry","male",8
+"601","political science","chemistry","male",11
+"602","history","economics","male",47
+"603","biochemistry","astronomy","female",2
+"604","psychology","history","female",11
+"605","sociology","philosophy","male",23
+"606","art history","evolutionary biology","male",1
+"607","earth sciences","evolutionary biology","male",5
+"608","english literature","political science","female",2
+"609","music","philosophy","male",8
+"610","philosophy","music","male",7
+"611","mathematics","neuroscience","female",12
+"612","history","political science","female",17
+"613","astronomy","statistics","male",6
+"614","statistics","physics","male",25
+"615","linguistics","sociology","female",5
+"616","middle eastern studies","sociology","male",2
+"617","neuroscience","biochemistry","male",21
+"618","neuroscience","evolutionary biology","male",3
+"619","neuroscience","molecular biology","male",9
+"620","linguistics","economics","male",10
+"621","art history","english literature","male",2
+"622","earth sciences","english literature","male",1
+"623","english literature","art history","male",3
+"624","english literature","earth sciences","male",4
+"625","physics","history","male",16
+"626","linguistics","history","male",3
+"627","philosophy","economics","male",31
+"628","english literature","neuroscience","male",3
+"629","mathematics","neuroscience","male",20
+"630","neuroscience","economics","male",2
+"631","molecular biology","education","male",7
+"632","education","spanish literature","female",5
+"633","education","comparative literature","female",5
+"634","education","classics","female",4
+"635","biochemistry","computer science","female",2
+"636","sociology","statistics","male",11
+"637","education","mathematics","female",42
+"638","engineering","biochemistry","female",34
+"639","mathematics","political science","female",5
+"640","mathematics","classics","female",1
+"641","mathematics","music","female",4
+"642","mathematics","comparative literature","female",1
+"643","archaeology","philosophy","male",4
+"644","archaeology","history","male",24
+"645","education","anthropology","female",8
+"646","statistics","sociology","male",15
+"647","molecular biology","physics","female",23
+"648","neuroscience","chemistry","male",9
+"649","political science","english literature","female",2
+"650","computer science","mathematics","female",43
+"651","political science","computer science","female",3
+"652","neuroscience","communications","male",2
+"653","molecular biology","engineering","female",18
+"654","education","political science","female",13
+"655","evolutionary biology","psychology","female",6
+"656","neuroscience","statistics","female",6
+"657","statistics","psychology","female",19
+"658","engineering","archaeology","male",6
+"659","archaeology","engineering","male",7
+"660","history","communications","female",28
+"661","political science","mathematics","male",11
+"662","classics","mathematics","male",4
+"663","music","mathematics","male",7
+"664","comparative literature","mathematics","male",3
+"665","history","chemistry","female",1
+"666","philosophy","political science","female",14
+"667","classics","english literature","male",4
+"668","physics","political science","female",5
+"669","physics","classics","female",3
+"670","physics","music","female",7
+"671","physics","comparative literature","female",3
+"672","philosophy","art history","female",8
+"673","education","biochemistry","female",3
+"674","biochemistry","history","female",2
+"675","molecular biology","history","female",2
+"676","political science","statistics","female",8
+"677","statistics","political science","female",7
+"678","linguistics","engineering","male",10
+"679","philosophy","molecular biology","female",1
+"680","classics","computer science","male",3
+"681","chemistry","molecular biology","female",54
+"682","anthropology","archaeology","male",39
+"683","earth sciences","classics","female",1
+"684","earth sciences","history","female",4
+"685","physics","anthropology","male",3
+"686","political science","middle eastern studies","female",5
+"687","chemistry","philosophy","male",3
+"688","statistics","linguistics","male",1
+"689","chemistry","economics","female",10
+"690","education","archaeology","male",3
+"691","philosophy","psychology","female",18
+"692","music","art history","female",1
+"693","chemistry","psychology","male",14
+"694","evolutionary biology","neuroscience","male",2
+"695","engineering","psychology","female",17
+"696","economics","chemistry","male",5
+"697","sociology","statistics","female",13
+"698","anthropology","chemistry","male",3
+"699","english literature","engineering","female",10
+"700","history","psychology","female",6
+"701","history","mathematics","male",4
+"702","linguistics","education","male",33
+"703","music","engineering","female",9
+"704","anthropology","music","male",4
+"705","communications","english literature","female",22
+"706","education","biochemistry","male",21
+"707","archaeology","education","female",13
+"708","political science","education","female",37
+"709","biochemistry","history","male",5
+"710","political science","history","female",14
+"711","art history","communications","female",13
+"712","earth sciences","communications","female",6
+"713","anthropology","classics","female",3
+"714","classics","archaeology","female",10
+"715","archaeology","classics","female",7
+"716","english literature","mathematics","female",5
+"717","psychology","archaeology","female",1
+"718","music","computer science","male",8
+"719","economics","linguistics","male",2
+"720","education","art history","female",9
+"721","education","earth sciences","female",7
+"722","psychology","philosophy","female",13
+"723","economics","physics","male",11
+"724","physics","english literature","female",2
+"725","psychology","political science","male",17
+"726","engineering","philosophy","female",3
+"727","anthropology","engineering","female",6
+"728","molecular biology","statistics","female",7
+"729","psychology","english literature","female",7
+"730","political science","psychology","male",17
+"731","chemistry","statistics","male",16
+"732","archaeology","economics","male",3
+"733","political science","anthropology","female",9
+"734","political science","linguistics","male",2
+"735","economics","art history","male",1
+"736","anthropology","chemistry","female",3
+"737","history","classics","male",11
+"738","neuroscience","education","male",17
+"739","mathematics","sociology","female",6
+"740","education","neuroscience","female",10
+"741","communications","anthropology","male",6
+"742","biochemistry","mathematics","female",3
+"743","history","physics","female",1
+"744","sociology","archaeology","female",4
+"745","sociology","engineering","female",5
+"746","engineering","sociology","female",3
+"747","history","comparative literature","male",2
+"748","mathematics","evolutionary biology","female",5
+"749","computer science","history","male",9
+"750","art history","political science","male",2
+"751","psychology","biochemistry","female",5
+"752","biochemistry","psychology","female",10
+"753","sociology","computer science","male",10
+"754","computer science","sociology","male",9
+"755","archaeology","computer science","female",2
+"756","political science","physics","female",2
+"757","political science","archaeology","female",5
+"758","philosophy","mathematics","female",5
+"759","mathematics","archaeology","male",2
+"760","computer science","anthropology","female",1
+"761","history","english literature","female",10
+"762","political science","engineering","female",12
+"763","comparative literature","english literature","female",13
+"764","economics","neuroscience","male",1
+"765","sociology","engineering","male",10
+"766","psychology","mathematics","male",9
+"767","philosophy","evolutionary biology","male",1
+"768","archaeology","evolutionary biology","female",1
+"769","evolutionary biology","archaeology","female",1
+"770","middle eastern studies","education","male",3
+"771","chemistry","astronomy","female",7
+"772","communications","neuroscience","male",5
+"773","earth sciences","philosophy","male",3
+"774","history","linguistics","female",6
+"775","linguistics","history","female",6
+"776","sociology","comparative literature","male",1
+"777","art history","anthropology","female",4
+"778","economics","physics","female",4
+"779","classics","communications","female",4
+"780","music","communications","female",16
+"781","education","earth sciences","male",9
+"782","history","engineering","male",18
+"783","english literature","anthropology","female",2
+"784","classics","engineering","female",6
+"785","comparative literature","engineering","female",7
+"786","biochemistry","economics","male",7
+"787","computer science","astronomy","male",28
+"788","political science","classics","male",1
+"789","linguistics","political science","male",1
+"790","classics","political science","male",3
+"791","engineering","sociology","male",12
+"792","linguistics","neuroscience","male",3
+"793","communications","art history","male",6
+"794","archaeology","computer science","male",4
+"795","anthropology","neuroscience","female",5
+"796","communications","economics","female",17
+"797","computer science","neuroscience","female",4
+"798","classics","communications","male",4
+"799","comparative literature","communications","male",5
+"800","philosophy","spanish literature","male",3
+"801","philosophy","comparative literature","male",4
+"802","philosophy","classics","male",7
+"803","linguistics","astronomy","female",1
+"804","music","chemistry","male",4
+"805","art history","archaeology","female",4
+"806","molecular biology","statistics","male",8
+"807","evolutionary biology","chemistry","male",4
+"808","astronomy","engineering","female",12
+"809","chemistry","history","male",5
+"810","classics","history","male",10
+"811","classics","archaeology","male",10
+"812","psychology","history","male",11
+"813","history","music","female",7
+"814","music","history","female",5
+"815","molecular biology","communications","female",5
+"816","chemistry","psychology","female",7
+"817","engineering","evolutionary biology","male",7
+"818","evolutionary biology","engineering","male",7
+"819","spanish literature","history","male",1
+"820","comparative literature","history","male",3
+"821","statistics","evolutionary biology","female",3
+"822","political science","philosophy","female",11
+"823","communications","art history","female",3
+"824","history","computer science","male",9
+"825","philosophy","computer science","female",3
+"826","mathematics","philosophy","female",8
+"827","philosophy","sociology","female",14
+"828","sociology","philosophy","female",10
+"829","economics","anthropology","male",8
+"830","neuroscience","anthropology","female",3
+"831","chemistry","evolutionary biology","female",5
+"832","communications","astronomy","male",3
+"833","physics","philosophy","female",4
+"834","middle eastern studies","political science","male",8
+"835","molecular biology","evolutionary biology","male",7
+"836","biochemistry","evolutionary biology","male",3
+"837","english literature","comparative literature","female",8
+"838","biochemistry","political science","male",3
+"839","psychology","biochemistry","male",2
+"840","sociology","middle eastern studies","female",1
+"841","engineering","anthropology","male",7
+"842","anthropology","engineering","male",4
+"843","sociology","archaeology","male",1
+"844","history","physics","male",5
+"845","evolutionary biology","physics","female",3
+"846","chemistry","music","male",11
+"847","computer science","astronomy","female",3
+"848","english literature","music","female",3
+"849","english literature","middle eastern studies","female",1
+"850","middle eastern studies","psychology","female",2
+"851","comparative literature","english literature","male",7
+"852","molecular biology","middle eastern studies","female",1
+"853","middle eastern studies","classics","male",1
+"854","middle eastern studies","music","male",1
+"855","middle eastern studies","computer science","male",3
+"856","middle eastern studies","comparative literature","male",1
+"857","economics","linguistics","female",7
+"858","anthropology","linguistics","male",4
+"859","astronomy","mathematics","female",7
+"860","philosophy","physics","female",2
+"861","english literature","computer science","female",5
+"862","english literature","physics","female",2
+"863","spanish literature","comparative literature","male",1
+"864","chemistry","communications","male",13
+"865","education","classics","male",6
+"866","education","comparative literature","male",6
+"867","education","molecular biology","male",6
+"868","neuroscience","evolutionary biology","female",2
+"869","philosophy","biochemistry","male",2
+"870","biochemistry","psychology","male",6
+"871","philosophy","neuroscience","female",4
+"872","neuroscience","mathematics","female",1
+"873","evolutionary biology","engineering","female",6
+"874","communications","biochemistry","male",3
+"875","statistics","biochemistry","male",4
+"876","political science","biochemistry","male",1
+"877","earth sciences","biochemistry","male",1
+"878","art history","music","male",6
+"879","communications","spanish literature","female",2
+"880","spanish literature","communications","female",3
+"881","english literature","mathematics","male",3
+"882","linguistics","classics","female",4
+"883","classics","linguistics","female",7
+"884","philosophy","archaeology","female",3
+"885","anthropology","english literature","female",3
+"886","evolutionary biology","statistics","male",5
+"887","anthropology","mathematics","male",1
+"888","philosophy","astronomy","male",4
+"889","classics","art history","male",3
+"890","engineering","history","male",12
+"891","molecular biology","earth sciences","male",2
+"892","anthropology","computer science","male",4
+"893","middle eastern studies","linguistics","female",1
+"894","english literature","economics","female",3
+"895","statistics","anthropology","male",2
+"896","political science","anthropology","male",7
+"897","earth sciences","anthropology","male",2
+"898","engineering","english literature","female",3
+"899","history","psychology","male",13
+"900","psychology","physics","female",6
+"901","astronomy","statistics","female",2
+"902","physics","statistics","female",14
+"903","chemistry","history","female",5
+"904","earth sciences","political science","female",3
+"905","english literature","music","male",2
+"906","psychology","evolutionary biology","female",4
+"907","biochemistry","economics","female",3
+"908","anthropology","statistics","female",1
+"909","mathematics","anthropology","female",3
+"910","statistics","anthropology","female",1
+"911","economics","anthropology","female",6
+"912","art history","music","female",4
+"913","communications","earth sciences","female",1
+"914","evolutionary biology","education","female",5
+"915","engineering","anthropology","female",3
+"916","sociology","linguistics","male",3
+"917","linguistics","sociology","male",3
+"918","english literature","spanish literature","female",1
+"919","sociology","computer science","female",3
+"920","music","english literature","male",4
+"921","sociology","physics","male",1
+"922","english literature","sociology","female",7
+"923","classics","economics","male",6
+"924","music","economics","male",7
+"925","comparative literature","economics","male",6
+"926","art history","mathematics","female",1
+"927","art history","english literature","female",2
+"928","psychology","chemistry","female",3
+"929","mathematics","anthropology","male",3
+"930","chemistry","evolutionary biology","male",2
+"931","molecular biology","education","female",5
+"932","astronomy","economics","female",1
+"933","english literature","physics","male",3
+"934","engineering","archaeology","female",2
+"935","english literature","psychology","female",11
+"936","evolutionary biology","linguistics","male",2
+"937","philosophy","middle eastern studies","female",1
+"938","middle eastern studies","comparative literature","female",1
+"939","english literature","classics","female",2
+"940","physics","art history","female",1
+"941","physics","linguistics","female",1
+"942","biochemistry","philosophy","female",1
+"943","sociology","mathematics","male",7
+"944","chemistry","anthropology","female",2
+"945","spanish literature","economics","male",2
+"946","neuroscience","philosophy","female",5
+"947","philosophy","archaeology","male",3
+"948","molecular biology","middle eastern studies","male",1
+"949","comparative literature","sociology","male",1
+"950","anthropology","linguistics","female",1
+"951","earth sciences","economics","male",3
+"952","neuroscience","communications","female",2
+"953","sociology","neuroscience","female",1
+"954","archaeology","art history","female",2
+"955","statistics","history","male",1
+"956","computer science","earth sciences","male",8
+"957","mathematics","art history","female",2
+"958","art history","sociology","female",2
+"959","spanish literature","computer science","female",2
+"960","comparative literature","computer science","female",2
+"961","classics","computer science","female",3
+"962","evolutionary biology","neuroscience","female",2
+"963","philosophy","chemistry","female",1
+"964","communications","molecular biology","male",4
+"965","mathematics","evolutionary biology","male",6
+"966","statistics","evolutionary biology","male",4
+"967","molecular biology","mathematics","male",4
+"968","anthropology","classics","male",3
+"969","classics","anthropology","male",2
+"970","chemistry","political science","male",11
+"971","chemistry","classics","male",6
+"972","chemistry","comparative literature","male",5
+"973","evolutionary biology","history","male",6
+"974","earth sciences","archaeology","male",1
+"975","middle eastern studies","history","male",4
+"976","education","evolutionary biology","male",2
+"977","evolutionary biology","philosophy","male",1
+"978","linguistics","neuroscience","female",5
+"979","classics","comparative literature","male",1
+"980","evolutionary biology","biochemistry","female",2
+"981","sociology","neuroscience","male",1
+"982","psychology","art history","female",1
+"983","psychology","earth sciences","female",3
+"984","earth sciences","music","female",3
+"985","sociology","classics","female",1
+"986","sociology","comparative literature","female",1
+"987","comparative literature","philosophy","male",4
+"988","music","anthropology","female",3
+"989","computer science","evolutionary biology","female",2
+"990","statistics","philosophy","female",1
+"991","evolutionary biology","history","female",5
+"992","earth sciences","music","male",4
+"993","anthropology","spanish literature","male",1
+"994","anthropology","english literature","male",2
+"995","anthropology","comparative literature","male",2
+"996","history","statistics","male",1
+"997","sociology","english literature","female",3
+"998","astronomy","communications","male",3
+"999","communications","archaeology","male",2
+"1000","comparative literature","anthropology","male",2
+"1001","earth sciences","biochemistry","female",1
+"1002","political science","middle eastern studies","male",3
+"1003","evolutionary biology","mathematics","male",7
+"1004","music","computer science","female",2
+"1005","spanish literature","education","male",2
+"1006","education","spanish literature","male",2
+"1007","neuroscience","history","male",2
+"1008","philosophy","comparative literature","female",4
+"1009","philosophy","art history","male",5
+"1010","neuroscience","chemistry","female",3
+"1011","music","sociology","male",1
+"1012","sociology","music","male",5
+"1013","earth sciences","mathematics","female",5
+"1014","earth sciences","computer science","female",3
+"1015","economics","middle eastern studies","female",3
+"1016","chemistry","anthropology","male",4
+"1017","physics","evolutionary biology","male",5
+"1018","psychology","molecular biology","female",4
+"1019","middle eastern studies","economics","female",3
+"1020","evolutionary biology","anthropology","male",1
+"1021","computer science","music","male",5
+"1022","anthropology","economics","female",7
+"1023","english literature","neuroscience","female",1
+"1024","archaeology","chemistry","male",4
+"1025","chemistry","archaeology","male",6
+"1026","middle eastern studies","political science","female",4
+"1027","classics","chemistry","male",2
+"1028","comparative literature","chemistry","male",2
+"1029","political science","english literature","male",3
+"1030","chemistry","spanish literature","male",1
+"1031","spanish literature","chemistry","male",1
+"1032","statistics","communications","female",3
+"1033","statistics","music","female",1
+"1034","statistics","classics","female",1
+"1035","communications","statistics","female",4
+"1036","music","statistics","female",1
+"1037","classics","statistics","female",1
+"1038","linguistics","art history","female",2
+"1039","linguistics","political science","female",3
+"1040","linguistics","middle eastern studies","male",3
+"1041","biochemistry","earth sciences","male",4
+"1042","art history","classics","male",3
+"1043","comparative literature","spanish literature","male",2
+"1044","spanish literature","psychology","female",3
+"1045","comparative literature","history","female",1
+"1046","education","art history","male",5
+"1047","molecular biology","linguistics","male",1
+"1048","biochemistry","earth sciences","female",2
+"1049","physics","spanish literature","male",4
+"1050","physics","english literature","male",4
+"1051","english literature","economics","male",4
+"1052","statistics","astronomy","male",3
+"1053","english literature","middle eastern studies","male",1
+"1054","middle eastern studies","english literature","male",2
+"1055","evolutionary biology","earth sciences","female",1
+"1056","astronomy","biochemistry","male",2
+"1057","biochemistry","astronomy","male",2
+"1058","history","earth sciences","female",4
+"1059","history","engineering","female",10
+"1060","biochemistry","political science","female",1
+"1061","molecular biology","political science","female",1
+"1062","history","neuroscience","female",1
+"1063","music","anthropology","male",4
+"1064","communications","astronomy","female",2
+"1065","linguistics","comparative literature","female",1
+"1066","neuroscience","music","male",1
+"1067","neuroscience","comparative literature","male",1
+"1068","neuroscience","middle eastern studies","male",1
+"1069","political science","neuroscience","male",3
+"1070","earth sciences","neuroscience","male",2
+"1071","economics","chemistry","female",4
+"1072","political science","music","male",1
+"1073","evolutionary biology","biochemistry","male",5
+"1074","evolutionary biology","physics","male",1
+"1075","physics","anthropology","female",4
+"1076","art history","statistics","female",1
+"1077","english literature","statistics","female",2
+"1078","classics","linguistics","male",5
+"1079","engineering","linguistics","female",4
+"1080","anthropology","art history","male",2
+"1081","biochemistry","communications","male",5
+"1082","sociology","biochemistry","female",1
+"1083","sociology","biochemistry","male",1
+"1084","sociology","evolutionary biology","male",1
+"1085","sociology","molecular biology","male",2
+"1086","communications","earth sciences","male",3
+"1087","biochemistry","english literature","female",2
+"1088","anthropology","biochemistry","male",2
+"1089","biochemistry","anthropology","male",1
+"1090","art history","engineering","female",2
+"1091","english literature","classics","male",2
+"1092","comparative literature","economics","female",2
+"1093","economics","biochemistry","female",2
+"1094","art history","psychology","female",1
+"1095","art history","linguistics","male",2
+"1096","art history","computer science","male",1
+"1097","evolutionary biology","chemistry","female",2
+"1098","art history","political science","female",1
+"1099","education","middle eastern studies","female",2
+"1100","middle eastern studies","education","female",2
+"1101","middle eastern studies","earth sciences","male",1
+"1102","art history","economics","male",1
+"1103","chemistry","linguistics","male",1
+"1104","archaeology","biochemistry","female",4
+"1105","computer science","molecular biology","female",2
+"1106","computer science","history","female",2
+"1107","spanish literature","linguistics","male",3
+"1108","comparative literature","linguistics","male",2
+"1109","mathematics","linguistics","female",2
+"1110","classics","earth sciences","female",2
+"1111","archaeology","earth sciences","female",3
+"1112","earth sciences","anthropology","female",2
+"1113","music","earth sciences","male",3
+"1114","computer science","archaeology","male",2
+"1115","classics","physics","female",1
+"1116","music","physics","female",1
+"1117","comparative literature","physics","female",1
+"1118","earth sciences","astronomy","male",3
+"1119","english literature","archaeology","female",1
+"1120","anthropology","art history","female",3
+"1121","history","comparative literature","female",4
+"1122","economics","english literature","male",2
+"1123","art history","classics","female",1
+"1124","political science","neuroscience","female",2
+"1125","chemistry","linguistics","female",1
+"1126","political science","mathematics","female",3
+"1127","evolutionary biology","statistics","female",1
+"1128","evolutionary biology","computer science","male",3
+"1129","classics","economics","female",1
+"1130","music","economics","female",1
+"1131","anthropology","molecular biology","male",2
+"1132","classics","english literature","female",1
+"1133","evolutionary biology","earth sciences","male",2
+"1134","spanish literature","physics","male",1
+"1135","molecular biology","psychology","male",1
+"1136","engineering","spanish literature","male",2
+"1137","spanish literature","engineering","male",2
+"1138","education","middle eastern studies","male",2
+"1139","mathematics","english literature","female",1
+"1140","computer science","english literature","female",3
+"1141","chemistry","sociology","male",1
+"1142","linguistics","music","female",2
+"1143","music","linguistics","female",2
+"1144","molecular biology","astronomy","female",2
+"1145","computer science","political science","female",1
+"1146","music","mathematics","female",5
+"1147","political science","evolutionary biology","male",2
+"1148","computer science","middle eastern studies","male",1
+"1149","comparative literature","political science","female",1
+"1150","neuroscience","astronomy","female",1
+"1151","anthropology","statistics","male",3
+"1152","neuroscience","linguistics","male",2
+"1153","music","linguistics","male",1
+"1154","linguistics","music","male",2
+"1155","communications","molecular biology","female",3
+"1156","political science","earth sciences","female",2
+"1157","music","earth sciences","female",1
+"1158","comparative literature","earth sciences","female",1
+"1159","linguistics","molecular biology","female",1
+"1160","spanish literature","political science","male",2
+"1161","english literature","political science","male",5
+"1162","comparative literature","political science","male",2
+"1163","sociology","chemistry","male",1
+"1164","art history","psychology","male",1
+"1165","communications","chemistry","female",1
+"1166","molecular biology","astronomy","male",2
+"1167","statistics","physics","female",2
+"1168","music","political science","male",1
+"1169","economics","evolutionary biology","male",1
+"1170","psychology","classics","female",1
+"1171","psychology","comparative literature","female",1
+"1172","linguistics","astronomy","male",1
+"1173","linguistics","physics","male",1
+"1174","anthropology","biochemistry","female",3
+"1175","sociology","earth sciences","male",1
+"1176","earth sciences","sociology","male",1
+"1177","astronomy","earth sciences","female",2
+"1178","earth sciences","astronomy","female",1
+"1179","molecular biology","anthropology","female",1
+"1180","molecular biology","history","male",1
+"1181","statistics","philosophy","male",1
+"1182","engineering","english literature","male",2
+"1183","history","biochemistry","male",2
+"1184","archaeology","linguistics","female",1
+"1185","music","neuroscience","female",1
+"1186","music","neuroscience","male",1
+"1187","linguistics","mathematics","female",1
+"1188","linguistics","statistics","female",1
+"1189","communications","evolutionary biology","male",2
+"1190","middle eastern studies","mathematics","female",1
+"1191","psychology","molecular biology","male",1
+"1192","middle eastern studies","molecular biology","male",2
+"1193","english literature","art history","female",5
+"1194","classics","biochemistry","female",1
+"1195","history","middle eastern studies","male",6
+"1196","sociology","mathematics","female",1
+"1197","archaeology","communications","female",2
+"1198","political science","art history","female",3
+"1199","history","chemistry","male",4
+"1200","history","middle eastern studies","female",1
+"1201","history","molecular biology","male",1
+"1202","chemistry","philosophy","female",1
+"1203","computer science","classics","male",2
+"1204","biochemistry","spanish literature","male",1
+"1205","neuroscience","political science","female",1
+"1206","political science","comparative literature","male",2
+"1207","archaeology","neuroscience","male",1
+"1208","sociology","linguistics","female",2
+"1209","philosophy","earth sciences","male",1
+"1210","computer science","middle eastern studies","female",1
+"1211","political science","comparative literature","female",1
+"1212","comparative literature","linguistics","female",1
+"1213","chemistry","middle eastern studies","male",1
+"1214","spanish literature","english literature","male",1
+"1215","spanish literature","engineering","female",1
+"1216","linguistics","earth sciences","female",1
+"1217","anthropology","earth sciences","male",2
+"1218","english literature","molecular biology","male",1
+"1219","statistics","biochemistry","female",2
+"1220","psychology","middle eastern studies","female",1
+"1221","middle eastern studies","history","female",2
+"1222","anthropology","computer science","female",1
+"1223","statistics","earth sciences","male",4
+"1224","classics","biochemistry","male",1
+"1225","philosophy","earth sciences","female",2
+"1226","sociology","physics","female",1
+"1227","english literature","statistics","male",1
+"1228","english literature","biochemistry","female",1
+"1229","english literature","archaeology","male",1
+"1230","chemistry","sociology","female",1
+"1231","comparative literature","philosophy","female",3
+"1232","english literature","biochemistry","male",1
+"1233","art history","comparative literature","female",1
+"1234","linguistics","spanish literature","male",1
+"1235","biochemistry","communications","female",3
+"1236","statistics","comparative literature","male",1
+"1237","astronomy","computer science","female",3
+"1238","earth sciences","english literature","female",1
+"1239","middle eastern studies","english literature","female",1
+"1240","linguistics","statistics","male",1
+"1241","art history","statistics","male",1
+"1242","earth sciences","statistics","male",1
+"1243","statistics","music","male",1
+"1244","statistics","molecular biology","female",1
+"1245","political science","molecular biology","female",1
+"1246","earth sciences","molecular biology","female",1
+"1247","archaeology","english literature","male",1
+"1248","evolutionary biology","economics","male",1
+"1249","economics","archaeology","male",1
+"1250","computer science","comparative literature","male",2
+"1251","art history","chemistry","male",1
+"1252","classics","political science","female",1
+"1253","archaeology","political science","female",2
+"1254","computer science","spanish literature","male",1
+"1255","biochemistry","archaeology","male",1
+"1256","archaeology","chemistry","female",1
+"1257","astronomy","music","female",2
+"1258","history","spanish literature","female",1
+"1259","biochemistry","middle eastern studies","male",1
+"1260","middle eastern studies","biochemistry","male",1
+"1261","art history","computer science","female",1
+"1262","middle eastern studies","philosophy","female",1
+"1263","music","english literature","female",2
+"1264","physics","linguistics","male",1
+"1265","anthropology","molecular biology","female",1
+"1266","anthropology","mathematics","female",3
+"1267","chemistry","classics","female",1
+"1268","chemistry","music","female",1
+"1269","chemistry","comparative literature","female",1
+"1270","computer science","spanish literature","female",1
+"1271","computer science","comparative literature","female",1
+"1272","computer science","classics","female",1
+"1273","psychology","archaeology","male",1
+"1274","music","chemistry","female",2
+"1275","economics","classics","female",1
+"1276","economics","music","female",1
+"1277","economics","comparative literature","female",1
+"1278","neuroscience","philosophy","male",1
+"1279","archaeology","middle eastern studies","male",1
+"1280","anthropology","physics","male",1
+"1281","classics","earth sciences","male",1
+"1282","economics","astronomy","male",1
+"1283","astronomy","political science","female",1
+"1284","astronomy","classics","female",1
+"1285","astronomy","comparative literature","female",1
+"1286","statistics","molecular biology","male",1
+"1287","english literature","astronomy","female",1
+"1288","psychology","spanish literature","female",1
+"1289","spanish literature","philosophy","male",1
+"1290","art history","chemistry","female",1
+"1291","physics","middle eastern studies","male",1
+"1292","physics","archaeology","female",1
