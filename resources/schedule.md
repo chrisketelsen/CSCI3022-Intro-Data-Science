@@ -36,7 +36,7 @@
 |       | 11.22        |                      |          |**FALL BREAK - NO CLASS**            |			    |			| 
 |14     | 11.27        |[ISL Ch3](https://goo.gl/RhWZ4W) |          |Multiple Linear Regression           |[CK](https://goo.gl/R96avQ)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec22_larremore.pdf)			    |			| 
 |       | 11.29        |[ISL Ch3](https://goo.gl/RhWZ4W) |          |Inference in MLR    	| [CK](https://goo.gl/PAVYXj)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec23_larremore.pdf)						   			    |			| 
-|15     | 12.04        |                      |          |ANOVA                                |			    | [Practicum](https://github.com/chrisketelsen/csci3022/tree/master/practicum)	| 
+|15     | 12.04        |                      |          |ANOVA                                |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson24.pdf)/DL		    | [Practicum](https://github.com/chrisketelsen/csci3022/tree/master/practicum)	| 
 |       | 12.06        |                      |          |Logistic Regr. and Classification     |			    |			| 
 |16     | 12.11        |                      |          |Sol. Techniques for OLS + LogReg     |			    |			| 
 |       | 12.13        |                      |          |**FINAL EXAM REVIEW**                |			    |			| 
