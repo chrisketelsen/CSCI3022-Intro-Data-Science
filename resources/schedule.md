@@ -39,5 +39,5 @@
 |15     | 12.04        |                      |          |ANOVA                                |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson24.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec24_larremore.pdf)		    | [Practicum](https://github.com/chrisketelsen/csci3022/tree/master/practicum)	| 
 |       | 12.06        |                      |          |Logistic Regr. and Classification     |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson25.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec25_larremore.pdf)		    |		| 
 |16     | 12.11        |                      |          |Sol. Techniques for OLS + LogReg     |[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/lesson26.pdf)/[DL](https://github.com/dblarremore/csci3022/raw/master/3022_lec26_larremore.pdf)				    |			| 
-|       | 12.13        |                      |          |**FINAL EXAM REVIEW**                |			    |			| 
+|       | 12.13        |                      |          |**FINAL EXAM REVIEW**                | [CK/DL](https://www.cs.colorado.edu/~ketelsen/files/courses/csci3022/slides/final_review.pdf)			    |			| 
 |17     | 12.XX        |                      |          |**FINAL EXAM**                       |			    |			| 
