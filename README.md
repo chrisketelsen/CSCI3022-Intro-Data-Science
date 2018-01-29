@@ -1,4 +1,4 @@
-### GitHub Repository for CSCI 3022 
+### CSCI 3022: Intro to Data Science with Probability and Statistics 
 ***
 
 Chris Ketelsen
@@ -9,7 +9,7 @@ University of Colorado at Boulder
 
 Fall, 2017 
 
-[Piazza]piazza.com/colorado/fall2017/csci3022/home()
+[Piazza](piazza.com/colorado/fall2017/csci3022/home)
 
 [Calendar and Slides](https://github.com/chrisketelsen/CSCI3022-Intro-Data-Science/blob/master/resources/schedule.md)
 
